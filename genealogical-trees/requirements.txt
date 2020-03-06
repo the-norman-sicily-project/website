@@ -1,0 +1,4 @@
+rdflib
+transliterate
+-e git://github.com/RDFLib/OWL-RL.git#egg=owlrl
+-e git://github.com/nickreynke/python-gedcom.git#egg=python-gedcom
