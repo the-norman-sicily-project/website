@@ -1,0 +1,74 @@
+{
+  "name": "interactive-map",
+  "version": "0.2.0",
+  "license": "MIT",
+  "description": "Interactive map application for the Norman Sicily Project",
+  "private": true,
+  "homepage": "https://www.normansicily.org/places/map/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/the-norman-sicily-project/interactive-map.git"
+  },
+  "author": "Joseph Hayes <joephayes@gmail.com> (https://github.com/joephayes)",
+  "contributors": [
+    "Dawn Marie Hayes <hayesd@montclair.edu> (http://www.thehayesweb.org/dhayes)",
+    "Ryan Marshall <RyanMarshall5765@gmail.com> (https://github.com/RyanMarshall5765)"
+  ],
+  "dependencies": {
+    "enzyme": "3.10.0",
+    "enzyme-adapter-react-16": "1.15.1",
+    "leaflet": "1.6.0",
+    "leaflet-geosearch": "^2.7.0",
+    "leaflet.markercluster": "^1.4.0",
+    "lodash": "^4.17.11",
+    "prop-types": "15.7.2",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-leaflet": "2.6.0",
+    "react-leaflet-markercluster": "^2.0.0-rc3",
+    "react-redux": "^7.1.3",
+    "react-scripts": "3.2.0",
+    "react-tabs": "^3.0.0",
+    "react-test-renderer": "16.12.0",
+    "redux": "^4.0.1",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-saga": "^1.1.3"
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,json,css}": [
+      "prettier --single-quote --write",
+      "git add"
+    ]
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "lint": "eslint --ext .js --ext .jsx src/"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "6.7.0",
+    "eslint-plugin-import": "2.18.2",
+    "eslint-plugin-jsx-a11y": "6.2.3",
+    "eslint-plugin-lodash-fp": "^2.2.0-a1",
+    "eslint-plugin-prettier": "3.1.1",
+    "eslint-plugin-react": "7.16.0",
+    "husky": "3.1.0",
+    "lint-staged": "9.4.3",
+    "prettier": "1.19.1",
+    "redux-mock-store": "^1.5.3"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  }
+}
