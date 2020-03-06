@@ -1,0 +1,16 @@
+{
+  "short_name": "NSP",
+  "name": "The Norman Sicily Project",
+  "icons": [
+    {
+      "src": "/images/favicon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#fff",
+  "display": "browser",
+  "scope": "/",
+  "theme_color": "#fff"
+}
