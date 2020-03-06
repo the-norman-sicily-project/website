@@ -1,0 +1,65 @@
+baseurl = "http://your-site.com/"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = "true"
+title = "Norman Sicily Project"
+theme = "hamburg"
+
+[params]
+    # Short subtitle/tagline. This is displayed in the header.
+    themecolor = "#hexcolor" # Defines the tab color in Chrome for Android.
+    # To load additional CSS styles
+    customCSS = ['hamburg.css']
+    # Show this very user-friendly and absolutely not annoying GDPR notice at the bottom of the page
+    ShowGDPRNotice = true
+	# Since 0.57.0 there's the concept of "main sections". The files for the section "posts" are in "./content/posts/".
+	mainSections = ["posts"]
+
+
+
+[languages]
+    [languages.en]
+        languageCode = "en"
+        languageName = "English"
+        # Copyright notice. This is displayer in the footer.
+        copyright = "&copy; some license"
+        [languages.en.menu]
+            [[languages.en.menu.main]]
+                name = "Home"
+                identifier = "home"
+                url = "pages/home"
+                weight = 9
+            [[languages.en.menu.main]]
+                name = "About"
+                identifier = "about"
+                url = "pages/about"
+                weight = 7
+            [[languages.en.menu.main]]
+                name = "People"
+                identifier = "people"
+                url = "pages/people"
+                weight = 6
+            [[languages.en.menu.main]]
+                name = "Places"
+                identifier = "places"
+                url = "pages/places"
+                weight = 5
+            [[languages.en.menu.main]]
+                name = "Essays"
+                identifier = "essays"
+                url = "pages/essays"
+                weight = 3
+            [[languages.en.menu.main]]
+                name = "Analytics"
+                identifier = "analytics"
+                url = "pages/analytics"
+                weight = 2
+            [[languages.en.menu.main]]
+                name = "Resources"
+                identifier = "resources"
+                url = "pages/resources"
+                weight = 1
+            [[languages.en.menu.main]]
+                name = "Blog"
+                identifier = "Blog"
+                url = ""
+                weight = 4
