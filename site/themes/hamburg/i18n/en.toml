@@ -1,0 +1,18 @@
+[pageNotExists]
+  other = "That page doesn't exist!"
+[home]
+  other = "Home"
+[pageOf]
+  other = "Page {{ .PageNumber }} of {{ .TotalPages }}"
+[postedOn]
+  other = "Posted on"
+[readMore]
+  other = "Read more"
+[contactMe]
+  other = "Contact me"
+[dateTimeFormat]
+  other = "Jan 2, 2006 at 15:04"
+[dateFormat]
+  other = "Jan 2, 2006"
+[allTags]
+  other = "All tags"
