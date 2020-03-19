@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://www.normansicily.org/</loc>
+  <lastmod>2019-11-21T23:05:42+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.normansicily.org/about/</loc>
+  <lastmod>2019-11-21T23:06:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.normansicily.org/resources/</loc>
+  <lastmod>2019-11-21T23:06:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.normansicily.org/analytics/</loc>
+  <lastmod>2019-11-21T23:08:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.normansicily.org/essays/</loc>
+  <lastmod>2019-11-21T23:05:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.normansicily.org/chattels/</loc>
+  <lastmod>2019-11-21T23:07:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.normansicily.org/places/</loc>
+  <lastmod>2019-11-21T23:06:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.normansicily.org/people/</loc>
+  <lastmod>2019-11-21T23:07:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.normansicily.org/nsp/index-en.html</loc>
+  <lastmod>2018-07-28T08:38:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.normansicily.org/data/places-20191009.geojson</loc>
+  <lastmod>2019-11-21T23:08:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.normansicily.org/data/places-riot-20191009.rdfxml</loc>
+  <lastmod>2019-11-21T23:08:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.normansicily.org/sicilian_monastic_choropleth_map/</loc>
+  <lastmod>2019-10-09T04:20:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.normansicily.org/places/map/</loc>
+  <lastmod>2019-11-21T23:06:16+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.normansicily.org/people/family-tree/nsp.html</loc>
+  <lastmod>2019-11-18T23:07:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.normansicily.org/nsp/nsp.nt</loc>
+  <lastmod>2018-07-27T16:49:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.normansicily.org/nsp/provenance/provenance-en.html</loc>
+  <lastmod>2018-07-27T16:49:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.normansicily.org/sicilian_monastic_choropleth_map/README.md</loc>
+  <lastmod>2019-10-09T04:20:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
