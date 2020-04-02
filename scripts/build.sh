@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
-set -ex
+set -e
+
+MODE=${1:-production}
 
 MAPBOX_ACCESS_TOKEN="${MAPBOX_APIKEY:-UNSET}"
 
@@ -14,6 +16,12 @@ echo checking for required programs
 hash node 2>/dev/null || { echo >&2 "script requires node but it's not installed. Aborting."; exit 1; }
 hash yarn 2>/dev/null || { echo >&2 "script requires yarn but it's not installed. Aborting."; exit 1; }
 hash hugo 2>/dev/null || { echo >&2 "script requires hugo but it's not installed. Aborting."; exit 1; }
+
+if [[ "$MODE" == "development" ]]; then
+  BASE_URL=http://localhost:8080/
+else
+  BASE_URL=http://www.normansicily.org/
+fi
 
 if [[ ! -d "./site/themes/hamburg" ]]; then
   echo hamburg theme directory does not exist - cloning it.
@@ -47,7 +55,8 @@ git clone https://github.com/the-norman-sicily-project/genealogical-trees.git "$
 
 echo build website
 pushd site
-hugo --cleanDestinationDir --baseUrl "http://localhost:8080/"
+# set baseUrl to localhost for testing
+hugo --cleanDestinationDir --baseUrl "$BASE_URL" -v
 popd
 cp -pr "$PROJECTDIR/site/public"/* "$DISTDIR"
 
