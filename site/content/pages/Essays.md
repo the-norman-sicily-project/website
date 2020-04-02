@@ -2,8 +2,9 @@
 title: "Essays"
 date: 2020-02-13T22:37:46+02:00
 draft: false
+tags: ["page", "essays"]
 ---
-Essay's Page
+Essays Page
 ============
 
 Five substantial scholarly essays will be available that interpret
