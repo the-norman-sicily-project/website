@@ -24,32 +24,32 @@ theme = "hamburg"
         languageCode = "en"
         languageName = "English"
         # Copyright notice. This is displayed in the footer.
-        copyright = "&copy;  2015 - 2020 by Dawn Marie Hayes and Joseph Hayes. All Rights Reserved."
+        copyright = "&copy;  2015 - 2020 by Dawn Marie Hayes and Joseph P. Hayes. All Rights Reserved."
         [languages.en.menu]
             [[languages.en.menu.main]]
                 name = "Home"
                 identifier = "home"
-                url = "pages/home"
+                url = "home"
                 weight = 9
             [[languages.en.menu.main]]
                 name = "About"
                 identifier = "about"
-                url = "pages/about"
+                url = "about"
                 weight = 7
             [[languages.en.menu.main]]
                 name = "People"
                 identifier = "people"
-                url = "pages/people"
+                url = "people"
                 weight = 6
             [[languages.en.menu.main]]
                 name = "Places"
                 identifier = "places"
-                url = "pages/places"
+                url = "places"
                 weight = 5
             [[languages.en.menu.main]]
                 name = "Essays"
                 identifier = "essays"
-                url = "pages/essays"
+                url = "essays"
                 weight = 3
             [[languages.en.menu.main]]
                 name = "Blog"
