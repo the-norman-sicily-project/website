@@ -39,3 +39,9 @@ $ python -m SimpleHTTPServer 8080
 ## Deploying the site
 
 After building the site, deploy the contents of the `dist` directory.
+
+## License
+
+The MIT License (MIT)
+
+Copyright (c) 2020 Joseph P. Hayes and Dawn Marie Hayes
