@@ -1,26 +1,29 @@
-baseurl = "http://normansicily.org"
+baseurl = "http://www.normansicily.org/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = "true"
-title = "Norman Sicily Project"
+title = "The Norman Sicily Project"
 theme = "hamburg"
 
 [params]
     # Short subtitle/tagline. This is displayed in the header.
     themecolor = "#hexcolor" # Defines the tab color in Chrome for Android.
     # To load additional CSS styles
-    customCSS = ['hamburg.css']
+    customCSS = ['custom.css']
     # Show this very user-friendly and absolutely not annoying GDPR notice at the bottom of the page
     ShowGDPRNotice = true
-	# Since 0.57.0 there's the concept of "main sections". The files for the section "posts" are in "./content/posts/".
-	mainSections = ["posts"]
-
-
+    # Since 0.57.0 there's the concept of "main sections". The files for the section "posts" are in "./content/posts/".
+    mainSections = ["posts"]
+    ga_api_key = "UA-75482271-1"
+    twitter = "@NormanSicily"
+    github = "the-norman-sicily-project"
+    facebook = "TheNormanSicilyProject"
+    instagram = "thenormansicilyproject"
 
 [languages]
     [languages.en]
         languageCode = "en"
         languageName = "English"
-        # Copyright notice. This is displayer in the footer.
+        # Copyright notice. This is displayed in the footer.
         copyright = "&copy;  2015 - 2020 by Dawn Marie Hayes and Joseph Hayes. All Rights Reserved."
         [languages.en.menu]
             [[languages.en.menu.main]]
