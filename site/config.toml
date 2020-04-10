@@ -1,58 +1,55 @@
-baseurl = "http://www.normansicily.org/"
+baseurl = "http://normansicily.org"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = "true"
-title = "The Norman Sicily Project"
+title = "Norman Sicily Project"
 theme = "hamburg"
 
 [params]
     # Short subtitle/tagline. This is displayed in the header.
     themecolor = "#hexcolor" # Defines the tab color in Chrome for Android.
     # To load additional CSS styles
-    customCSS = ['custom.css']
+    customCSS = ['hamburg.css']
     # Show this very user-friendly and absolutely not annoying GDPR notice at the bottom of the page
     ShowGDPRNotice = true
-    # Since 0.57.0 there's the concept of "main sections". The files for the section "posts" are in "./content/posts/".
-    mainSections = ["posts"]
-    ga_api_key = "UA-75482271-1"
-    twitter = "@NormanSicily"
-    github = "the-norman-sicily-project"
-    facebook = "TheNormanSicilyProject"
-    instagram = "thenormansicilyproject"
+	# Since 0.57.0 there's the concept of "main sections". The files for the section "posts" are in "./content/posts/".
+	mainSections = ["posts"]
+
+
 
 [languages]
     [languages.en]
         languageCode = "en"
         languageName = "English"
-        # Copyright notice. This is displayed in the footer.
-        copyright = "&copy;  2015 - 2020 by Dawn Marie Hayes and Joseph P. Hayes. All Rights Reserved."
+        # Copyright notice. This is displayer in the footer.
+        copyright = "&copy;  2015 - 2020 by Dawn Marie Hayes and Joseph Hayes. All Rights Reserved."
         [languages.en.menu]
             [[languages.en.menu.main]]
-                name = "Home"
-                identifier = "home"
-                url = "home"
+                name = "HOME"
+                identifier = "HOME"
+                url = "pages/home"
                 weight = 9
             [[languages.en.menu.main]]
-                name = "About"
-                identifier = "about"
-                url = "about"
-                weight = 7
-            [[languages.en.menu.main]]
-                name = "People"
-                identifier = "people"
-                url = "people"
+                name = "PEOPLE"
+                identifier = "PEOPLE"
+                url = "pages/people"
                 weight = 6
             [[languages.en.menu.main]]
-                name = "Places"
-                identifier = "places"
-                url = "places"
+                name = "PLACES"
+                identifier = "PLACES"
+                url = "pages/places"
                 weight = 5
             [[languages.en.menu.main]]
-                name = "Essays"
-                identifier = "essays"
-                url = "essays"
+                name = "RESOURCES"
+                identifier = "RESOURCES"
+                url = "pages/resources"
                 weight = 3
             [[languages.en.menu.main]]
-                name = "Blog"
-                identifier = "Blog"
-                url = ""
+                name = "BLOG"
+                identifier = "BLOG"
+                url = "pages/blog"
                 weight = 4
+            [[languages.en.menu.main]]
+                name = "CONTACT US"
+                identifier = "ContactUs"
+                url = "pages/contactus"
+                weight = 1
