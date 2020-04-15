@@ -376,3 +376,25 @@ input[type=submit]:hover {
     border-radius: 5px;
     padding: 20px;
 }
+/* container for resource page */
+.container2 {
+    display: flex;
+    justify-content: center;
+    flex-flow: wrap;
+    flex-direction: row;
+}
+.box {
+    width: auto;
+    height: 0px;
+    background: white;
+    margin: 40px;
+}
+.box2 {
+    width: auto;
+    height: 75px;
+    text-align: center;
+    background: white;
+    margin: 35px;
+    margin-right: 49px;
+    margin-top: 0px;
+}
