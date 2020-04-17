@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-set -e
+set -ex
 
-MODE=${1:-production}
+BASE_URL=${1:-http://www.normansicily.org/}
 
 MAPBOX_ACCESS_TOKEN="${MAPBOX_APIKEY:-UNSET}"
 
@@ -16,12 +16,7 @@ echo checking for required programs
 hash node 2>/dev/null || { echo >&2 "script requires node but it's not installed. Aborting."; exit 1; }
 hash yarn 2>/dev/null || { echo >&2 "script requires yarn but it's not installed. Aborting."; exit 1; }
 hash hugo 2>/dev/null || { echo >&2 "script requires hugo but it's not installed. Aborting."; exit 1; }
-
-if [[ "$MODE" == "development" ]]; then
-  BASE_URL=http://localhost:8080/
-else
-  BASE_URL=http://www.normansicily.org/
-fi
+hash jq 2>/dev/null || { echo >&2 "script requires jq but it's not installed. Aborting."; exit 1; }
 
 if [[ ! -d "./site/themes/hamburg" ]]; then
   echo hamburg theme directory does not exist - cloning it.
@@ -52,10 +47,14 @@ mkdir -p "$DISTDIR"
 echo cloning required repos
 git clone https://github.com/the-norman-sicily-project/interactive-map.git "$BUILDDIR/interactive-map"
 git clone https://github.com/the-norman-sicily-project/genealogical-trees.git "$BUILDDIR/genealogical-trees"
+git clone https://github.com/the-norman-sicily-project/data-dumps.git "$BUILDDIR/data-dumps"
+
+echo $(cat $BUILDDIR/interactive-map/package.json | jq '.homepage='\"${BASE_URL}places/map/\") \
+> $BUILDDIR/interactive-map/package.$$.json && \
+cp $BUILDDIR/interactive-map/package.$$.json $BUILDDIR/interactive-map/package.json
 
 echo build website
 pushd site
-# set baseUrl to localhost for testing
 hugo --cleanDestinationDir --baseUrl "$BASE_URL" -v
 popd
 cp -pr "$PROJECTDIR/site/public"/* "$DISTDIR"
@@ -75,3 +74,6 @@ echo copy genealogical tree files
 cp -p "$BUILDDIR/genealogical-trees/d3.v3.5.17.min.js" "$DISTDIR/people/family-tree/."
 cp -p "$BUILDDIR/genealogical-trees/nsp.html" "$DISTDIR/people/family-tree/."
 cp -p "$BUILDDIR/genealogical-trees/data/nsp.json" "$DISTDIR/people/family-tree/data/."
+
+echo copy data files
+cp -pr "$BUILDDIR/data-dumps/latest/." "$DISTDIR/data/."
