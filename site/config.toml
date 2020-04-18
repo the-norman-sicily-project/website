@@ -13,8 +13,11 @@ theme = "hamburg"
     ShowGDPRNotice = true
 	# Since 0.57.0 there's the concept of "main sections". The files for the section "posts" are in "./content/posts/".
 	mainSections = ["posts"]
-
-
+    # Social accounts. Link to these accounts are displayed in the header and
+    # footer.
+    twitter = "Norman_Sicily"
+    instagram = "thenormansicilyproject"
+    facebook = "TheNormanSicilyProject"
 
 [languages]
     [languages.en]
