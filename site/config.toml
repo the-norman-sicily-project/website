@@ -11,13 +11,15 @@ theme = "hamburg"
     customCSS = ['hamburg.css']
     # Show this very user-friendly and absolutely not annoying GDPR notice at the bottom of the page
     ShowGDPRNotice = true
-	# Since 0.57.0 there's the concept of "main sections". The files for the section "posts" are in "./content/posts/".
-	mainSections = ["posts"]
+    # Since 0.57.0 there's the concept of "main sections". The files for the section "posts" are in "./content/posts/".
+    mainSections = ["posts"]
     # Social accounts. Link to these accounts are displayed in the header and
     # footer.
-    twitter = "Norman_Sicily"
-    instagram = "thenormansicilyproject"
+    ga_api_key = "UA-75482271-1"
+    twitter = "@NormanSicily"
+    github = "the-norman-sicily-project"
     facebook = "TheNormanSicilyProject"
+    instagram = "thenormansicilyproject"
 
 [languages]
     [languages.en]
