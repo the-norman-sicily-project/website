@@ -1,10 +1,10 @@
 ---
-title: "Charlie's Experience"
+title: "Charlee's Experience"
 date: 2020-01-24T14:07:58-05:00
 draft: false
 tags: ["post"]
 ---
-# Charlie's Experience
+# Charlee's Experience
 
 In my journey with *The Norman Sicily Project*, the nature of my work has grown
 alongside the project’s progression. In this evolution, I have been given a number of invaluable

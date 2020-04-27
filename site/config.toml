@@ -11,10 +11,15 @@ theme = "hamburg"
     customCSS = ['hamburg.css']
     # Show this very user-friendly and absolutely not annoying GDPR notice at the bottom of the page
     ShowGDPRNotice = true
-	# Since 0.57.0 there's the concept of "main sections". The files for the section "posts" are in "./content/posts/".
-	mainSections = ["posts"]
-
-
+    # Since 0.57.0 there's the concept of "main sections". The files for the section "posts" are in "./content/posts/".
+    mainSections = ["posts"]
+    # Social accounts. Link to these accounts are displayed in the header and
+    # footer.
+    ga_api_key = "UA-75482271-1"
+    twitter = "@NormanSicily"
+    github = "the-norman-sicily-project"
+    facebook = "TheNormanSicilyProject"
+    instagram = "thenormansicilyproject"
 
 [languages]
     [languages.en]
@@ -26,30 +31,30 @@ theme = "hamburg"
             [[languages.en.menu.main]]
                 name = "HOME"
                 identifier = "HOME"
-                url = "pages/home"
+                url = "home"
                 weight = 9
             [[languages.en.menu.main]]
                 name = "PEOPLE"
                 identifier = "PEOPLE"
-                url = "pages/people"
+                url = "people"
                 weight = 6
             [[languages.en.menu.main]]
                 name = "PLACES"
                 identifier = "PLACES"
-                url = "pages/places"
+                url = "places"
                 weight = 5
             [[languages.en.menu.main]]
                 name = "RESOURCES"
                 identifier = "RESOURCES"
-                url = "pages/resources"
+                url = "resources"
                 weight = 3
             [[languages.en.menu.main]]
                 name = "BLOG"
                 identifier = "BLOG"
-                url = "pages/blog"
+                url = "blog"
                 weight = 4
             [[languages.en.menu.main]]
                 name = "CONTACT US"
                 identifier = "ContactUs"
-                url = "pages/contactus"
+                url = "contactus"
                 weight = 1
