@@ -51,7 +51,7 @@ theme = "hamburg"
             [[languages.en.menu.main]]
                 name = "BLOG"
                 identifier = "BLOG"
-                url = "blog"
+                url = "posts"
                 weight = 4
             [[languages.en.menu.main]]
                 name = "CONTACT US"
