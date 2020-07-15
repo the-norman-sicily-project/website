@@ -1,0 +1,2 @@
+{{- $filename := (index (findRE "[^//]+$" (.Get "url") 1) 0) | default "file"}}
+<a href="{{ .Get "url" }}" {{with $filename }}download="{{ . }}" target="_blank"{{ end }}>{{ .Inner }}</a>{{- "" -}}

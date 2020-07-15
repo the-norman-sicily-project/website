@@ -74,9 +74,38 @@
         <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
       {{ end }}
     {{ end }}
+    {{ if (isset .Params "noshowpager")  }}
+    {{ else }}
     <div class="delimiter"></div>
     <div class="pager-container">
+      {{ with .PrevInSection }}
+        <a class="btn btn-primary btn-older-posts" href="{{ .Permalink }}">
+          <div>
+            <span aria-hidden="true">&larr;</span> {{ i18n "olderPosts" }}
+          </div>
+        </a>
+      {{ else }}
+        <a class="btn btn-primary btn-older-posts disabled" href="#">
+          <div>
+            <span aria-hidden="true">&larr;</span> {{ i18n "olderPosts" }}
+          </div>
+        </a>
+      {{ end }}
+      {{ with .NextInSection }}
+        <a class="btn btn-primary btn-newer-posts" href="{{ .Permalink }}">
+          <div>
+            {{ i18n "newerPosts" }} <span aria-hidden="true">&rarr;</span>
+          </div>
+        </a>
+      {{ else }}
+        <a class="btn btn-primary btn-newer-posts disabled" href="#">
+          <div>
+            {{ i18n "newerPosts" }} <span aria-hidden="true">&rarr;</span>
+          </div>
+        </a>
+      {{ end }}
     </div>
+    {{end}}
   </footer>
 </article>
 <div class="delimiter"></div>

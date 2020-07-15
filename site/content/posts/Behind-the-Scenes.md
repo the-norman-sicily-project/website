@@ -1,17 +1,15 @@
 ---
-title: "Behind the Scenes: Rebranding & Redesigning the Website"
-date: 2020-01-24T14:07:58-05:00
+title: "Ally's Behind the Scenes Take: Rebranding & Redesigning the Website"
+date: 2020-03-06T14:07:58-05:00
 draft: false
-tags: ["post"]
+tags: ["Ally", "website", "design", "social media"]
 ---
-
-# Behind the Scenes: Rebranding &amp; Redesigning the Website
 
 You might have noticed that *The Norman Sicily Project*’s website has recently undergone a lot of
 changes. Over the past few months, we’ve been working on creating a new interface for the site. Here’s a
 little behind the scenes of how we did everything.
 
-### First Things First
+## First Things First
 
 The first thing you should have when redesigning a website is a goal. What do you want from the new
 site? What can be improved upon from the current site? With The Norman Sicily Project, we wanted
@@ -25,7 +23,7 @@ Here’s some of the feedback we used to make changes to the site:
 - Make it possible forto people to contact us.
 - Improve data integration.
 
-### What Went Down
+## What Went Down
 
 Before even beginning to redesign the site, we needed to do a little rebranding. The project needed a new
 recognizable logo. To achieve this, we stylized an image of a lion mosaic made during the period with an

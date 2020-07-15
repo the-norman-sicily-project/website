@@ -1,0 +1,13 @@
+<article>
+  <header>
+    {{ if isset .Params "fa_icon" }}
+    <i class="fas {{.Params.fa_icon}} fa-5x resource-icon"></i>
+    {{ end }}
+    <div class="resource-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+  </header>
+  <div class="resource-description">
+    {{ .Description }}
+  </div>
+  <footer>
+  </footer>
+</article>

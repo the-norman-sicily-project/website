@@ -1,12 +1,9 @@
 ---
-title: "Grace's Experience"
-date: 2020-01-24T14:07:58-05:00
+title: "Grace's Experience as a Team Member of the Norman Sicily Project"
+date: 2020-03-13T14:07:58-05:00
 draft: false
-tags: ["post"]
+tags: ["Grace", "skills", "history"]
 ---
-
-# My Experience as a Team Member of the Norman Sicily Project
-### By: Grace Last
 
 When I heard about the opportunity to be part of The Norman Sicily Project, I was
 immediately interested in learning more. After reading the job description, I was even more
@@ -24,16 +21,17 @@ weekend of training so that we understood the complexities of working with and c
 historical data that we were about to encounter. The highlight of this stage in the project, for me,
 was to view photographs of the variety of monasteries found throughout different regions of
 Sicily and the ability to see the magnitude and cultural richness of the sites and their remains.
+
 My interest in Sicily and Sicilian history dates back to my high school years when I took
 an Advanced Placement European History class. I found it fascinating that so many different
 civilizations had left their cultural marks on the island and on southern Italy in general. From the
-
 Greeks to the Arabs and, of course, the Normans, the cultural diversity is apparent in the
 architecture of the island with religious buildings that have Greek elements while having Arab
 influences as well. Being a history buff, Italy was on the top of my travel bucket list ever since I
 was a young child and I was lucky enough to have the opportunity to travel there in summer of
 2014. Now, after having been fortunate enough to be a member of The Norman Sicily Project, I
 am inspired to return to Italy and travel around Sicily.
+
 Personally, the thing that I have taken away the most from being part of this project is the
 importance of preserving historical sites. Nowadays, history and other humanities are often
 brushed aside as not being as important as math and the sciences. However, I very much disagree

@@ -1,62 +1,88 @@
 <div class="sns-links hidden-print">
+  <ul>
   {{ with .Site.Params.contact }}
+  <li>
     <a href="{{ . }}">
-      <i class="fas fa-envelope"></i>
+      <i class="fas fa-envelope "></i>
     </a>
+  </li>
   {{ end }}
   {{ with .Site.Params.twitter }}
+  <li>
     <a href="https://twitter.com/{{ . }}" target="_blank">
-      <i class="fab fa-twitter"></i>
+      <i class="fab fa-twitter "></i>
     </a>
+  </li>
     {{ end }}
   {{ with .Site.Params.instagram }}
+  <li>
     <a href="https://instagram.com/{{ . }}" target="_blank">
-      <i class="fab fa-instagram"></i>
+      <i class="fab fa-instagram "></i>
     </a>
+  </li>
   {{ end }}
   {{ with .Site.Params.googleplus }}
+  <li>
     <a href="https://plus.google.com/+{{ . }}" target="_blank">
-      <i class="fab fa-google"></i>
+      <i class="fab fa-google "></i>
     </a>
+  </li>
   {{ end }}
   {{ with .Site.Params.facebook }}
+  <li>
     <a href="https://facebook.com/{{ . }}" target="_blank">
-      <i class="fab fa-facebook"></i>
+      <i class="fab fa-facebook "></i>
     </a>
+  </li>
   {{ end }}
   {{ with .Site.Params.github }}
+  <li>
     <a href="https://github.com/{{ . }}" target="_blank">
-      <i class="fab fa-github"></i>
+      <i class="fab fa-github "></i>
     </a>
+  </li>
   {{ end }}
   {{ with .Site.Params.gitlab }}
+  <li>
     <a href="https://gitlab.com/{{ . }}" target="_blank">
-      <i class="fab fa-gitlab"></i>
+      <i class="fab fa-gitlab "></i>
     </a>
+  </li>
   {{ end }}
   {{ with .Site.Params.reddit }}
+  <li>
     <a href="https://reddit.com/user/{{ . }}" target="_blank">
-      <i class="fab fa-reddit-alien"></i>
+      <i class="fab fa-reddit-alien "></i>
     </a>
+  </li>
   {{ end }}
   {{ with .Site.Params.hackernews }}
+  <li>
     <a href="https://news.ycombinator.com/user?id={{ . }}" target="_blank">
-      <i class="fab fa-hacker-news"></i>
+      <i class="fab fa-hacker-news "></i>
     </a>
+  </li>
   {{ end }}
   {{ with .Site.Params.stackoverflow }}
+  <li>
     <a href="https://stackoverflow.com/users/{{ . }}" target="_blank">
-      <i class="fab fa-stack-overflow"></i>
+      <i class="fab fa-stack-overflow "></i>
     </a>
+  </li>
   {{ end }}
   {{ with .Site.Params.linkedin }}
+  <li>
     <a href="https://linkedin.com/in/{{ . }}" target="_blank">
-      <i class="fab fa-linkedin"></i>
+      <i class="fab fa-linkedin "></i>
     </a>
+  </li>
   {{ end }}
   {{ with .Site.Params.keybase }}
+  <li>
     <a href="https://keybase.io/{{ . }}" target="_blank">
-      <i class="fas fa-key"></i>
+      <i class="fas fa-key "></i>
     </a>
+  </li>
   {{ end }}
+  </ul>
 </div>

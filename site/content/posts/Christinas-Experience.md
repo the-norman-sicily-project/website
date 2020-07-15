@@ -1,15 +1,13 @@
 ---
 title: "Christina's Experience"
-date: 2020-01-24T14:07:58-05:00
+date: 2019-11-29T17:19:58-05:00
 draft: false
-tags: ["post"]
+tags: ["Family", "Heritage", "Geraci", "Christina"]
 ---
-
-# Christina's Experience
 
 Sustainability, accessibility, and storytelling are at the heart of *The Norman Sicily Project*. Earlier
 this year Professor of History Dawn Hayes received a prestigious grant from the National
-Endowment for the Humanities&#39; Humanities Collections and Reference Resources program for
+Endowment for the Humanities' Humanities Collections and Reference Resources program for
 her project, “Documenting the Past, Triaging the Present and Assessing the Future: A Prototype
 for Sicily’s Norman Heritage, ca. 1061-1194.” When I received an email from Dr. Hayes
 congratulating me on receiving a position as a Media and Metadata Assistant to work on the
@@ -27,12 +25,11 @@ project’s site. “An enormous debt of gratitude is owed to the countless Sici
 numerous ways, have helped make this project possible. We hope that this effort is a small
 repayment for their unfailing kindness and generosity,” writes Dr. Hayes.
 
-
 Working on the project has completely expanded my perception of Sicily’s rich cultural history.
 In my role as a Media and Metadata Assistant, I am responsible for processing images and
 videos to optimize for display and usability on the web, applying metadata to the images so that
 visitors can interact with them and posting across social media platforms to enhance the
-project&#39;s visibility. My work has provided me with an inside look into the architectural
+project's visibility. My work has provided me with an inside look into the architectural
 masterpieces of the Middle Ages in a region that was influenced by a number of cultures during
 the flourishing Norman period. After processing hundreds of the images that capture the
 essence of this time, I am reminded of the purpose behind my work. Cataloging the images of
@@ -48,3 +45,7 @@ experience that I value so much. For those who do not have ties to their heritag
 its impact is no less compelling. Anyone who has an interest in Sicily, medieval art and history,
 or the Norman Conquest can appreciate the stories within each site and expand their
 perspective of an island abundant with culture.
+
+{{< figure src="geraci_castle_2015.png" alt="Geraci Castle, 2015" caption="The Ruins of the Castle of Geraci, Looking South (2015) PC: Dawn Hayes" >}}
+
+{{< figure src="giordano_geraci_castle_2010.png" alt="Geraci Castle, 2010" caption="The Giordano cousins at the ruins of the Castle of Geraci (2010) PC: Christina Giordano" >}}

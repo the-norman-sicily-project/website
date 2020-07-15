@@ -3,7 +3,7 @@
 <head prefix="og: http://ogp.me/ns#">
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
-  <meta property="og:title" content="{{ if ne .URL "/" }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}" />
+  <meta property="og:title" content="{{ if ne .Params.url "/" }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}" />
   {{ with .Site.Params.themecolor }}
     <meta name="theme-color" content="{{ . }}" />
   {{ end }}
@@ -28,15 +28,14 @@
   {{ end }}
 
   <title>
-    {{ if ne .URL "/" }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}
+    {{ if ne .Params.url "/" }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}
   </title>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Uncial+Antiqua&display=swap">
   <link rel="alternative stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.min.css" />
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/font-awesome.min.css" />
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/fontawesome.all.min.css" />
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css" />
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/github.css" />
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/color-theme.css" />
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400" type="text/css">
+  <link href="//fonts.googleapis.com/css2?family=Libre+Baskerville&family=Uncial+Antiqua&display=swap" rel="stylesheet">
   <link rel="shortcut icon" href="{{ .Site.BaseURL }}images/favicon.ico" />
   <link rel="apple-touch-icon" href="{{ .Site.BaseURL }}images/apple-touch-icon.png" />
 
@@ -44,29 +43,60 @@
     <link rel="stylesheet" href="{{ (print "css/" . ) | absURL }}">
   {{ end }}
 
-  {{ if eq .URL "/" }}
-    <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+  {{ if eq .Params.url "/" }}
+    <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
   {{ end }}
 </head>
 <body>
   {{ if isset .Params "image" }}
-  <header class="global-header"  style="background-image:url({{ .Params.image | absURL }})">
+  <header class="global-header"  style="background-image:url({{ .Params.image }})">
   {{ else }}
-  <header class="global-header-home"  style="background-image:url({{ "images/bg1.jpg" | absURL }})">
+  <header class="global-header"  style="background-image:url({{ "images/page_header_background_3000_x_333.png" | absURL }})">
   {{ end }}
-    <section class="header-text">
+    <section class="page-header">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-1">
+            </div>
+          <div class="col-md-2">
+            <div class="logo-img-container">
+          <img class="logo" src="{{ .Site.BaseURL }}images/logo_transparent_background.png">
+            </div>
+          </div>
+          <div class="col-md-8">
+          <div class="row">
+            {{ with .Site.Params.title }}
+            <div class="col-md-12">
+              <h1 class="page-title">
+                {{ . }}
+              </h1>
+            {{ end }}
+            </div>
+          </div>
+          <div class="row">
+
       {{ with .Site.Params.subtitle }}
-        <h3 class="tag-line">
+      <div class="col-md-12">
+        <h2 class="page-title">
           {{ . }}
-        </h3>
+        </h2>
+      </div>
+          </div>
       {{ end }}
       <!-- sites -->
+          </div>
+          <div class="col-md-1">
+        {{ partial "page_link.html" . }}
+          </div>
+      </div>
+      <div class="row">
       <div class="navbar-container">
         {{ range .Site.Menus.main }}
           <a class="btn btn-default navbar-item" href="{{ .URL | absLangURL | safeURL }}">
             {{ .Name }}
           </a>
         {{ end }}
+      </div>
       </div>
       <!-- Languages -->
       {{ $url := urls.Parse .Permalink }}

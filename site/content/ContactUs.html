@@ -2,44 +2,72 @@
 title: "Contact Us"
 date: 2020-02-13T22:37:46+02:00
 draft: false
-image: "images/bghome.jpg" 
+noshowdate: true
+noshowpager: true
 ---
 <div class="container">
-    <form action="https://getform.io/f/a50e3ee4-43dd-496e-92b4-a79e90b5197c" method="POST">
-  
-      <label for="fname"></label>
-      <input type="text" id="fname" name="firstname" placeholder="Your first name..">
-  
-      <label for="lname"></label>
-      <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-  
-      <label for="about"></label>
-      <select id="about" name="about">
-        <option value="Data Submission">Data Submission</option>
-        <option value="Data Correction">Data Correction</option>
-        <option value="General Inquiries">General Inquiries</option>
-      </select>
+    <form class="form-horizontal" action="https://getform.io/f/a50e3ee4-43dd-496e-92b4-a79e90b5197c" method="POST"
+        enctype="multipart/form-data">
+        <div class="form-group">
+            <label class="control-label col-sm-3" for="fname">First Name:</label>
+            <div class="col-sm-9">
+                <input type="text" class="form-control" id="fname" placeholder="Your First Name">
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="control-label col-sm-3" for="lname">Last Name:</label>
+            <div class="col-sm-9">
+                <input type="text" class="form-control" id="lname" placeholder="Your Last Name">
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="control-label col-sm-3" for="affiliation">Affiliation:</label>
+            <div class="col-sm-9">
+                <input type="text" class="form-control" id="affiliation" placeholder="Your Affiliation">
+            </div>
 
-      <label for="email"></label>
-      <input type="text" id="email" name="email" placeholder="Email">
-
-      <label for="Subject"></label>
-      <input type="text" id="subject" name="subject" placeholder="Subject">
-  
-      <label for="subject"></label>
-      <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
-
-      <label for="file"></label>
-      <input type="file" name="file">
-
-      <br />
-      
-      <p>To contribute information that has not been published in a scholarly source, please explain how you have come to know the details. Information uncorroborated by a scholarly source will be included but will be identified as such in the sites' records.</p>
-
-      <br />
-  
-      <input type="submit" value="Submit">
-
-  
+        </div>
+        <div class="form-group">
+            <label class="control-label col-sm-3" for="about">About:</label>
+            <div class="col-sm-9">
+                <select class="form-control" id="about" name="about">
+                    <option value="Choose One">Choose One</option>
+                    <option value="Data Submission">Data Submission*</option>
+                    <option value="Data Correction">Data Correction*</option>
+                    <option value="General Inquiries">General Inquiries</option>
+                </select>
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="control-label col-sm-3" for="email">Email:</label>
+            <div class="col-sm-9">
+                <input type="email" class="form-control" id="email" placeholder="Your Email Address">
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="control-label col-sm-3" for="subject">Subject:</label>
+            <div class="col-sm-9">
+                <input type="text" class="form-control" id="subject" placeholder="Subject">
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="control-label col-sm-3" for="message">Message:</label>
+            <div class="col-sm-9">
+                <textarea class="form-control" id="message" placeholder="Write Something..." rows="3"></textarea>
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="inputFile" class="control-label col-sm-3">File:</label>
+            <div class="col-sm-9">
+                <input class="form-control" type="file" id="inputFile" aria-describedby="input-file-help-block">
+            </div>
+            <p id="input-file-help-block" class="help-block">* For data submissions and/or corrections, please be
+                specific and attach documentation
+                from a published source. Acceptable formats include .docx, .md, .pdf and .txt.
+                To contribute information that has not been published in a scholarly source, please explain how you have
+                come to know the details. Information uncorroborated by a scholarly source will be included but will be
+                identified as such in the sites' records.</p>
+        </div>
+        <button type="submit" class="btn btn-default btn-data-submission">Submit</button>
     </form>
-  </div>
+</div>

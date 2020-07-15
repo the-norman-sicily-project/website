@@ -1,11 +1,9 @@
 ---
-title: "Five Sicilies"
-date: 2020-01-24T14:07:58-05:00
+title: "Christina's Thoughts on Five Places in Sicily"
+date: 2020-03-20T14:07:58-05:00
 draft: false
-tags: ["post"]
+tags: ["Christina", "Catania", "Messina", "Cefalù", "Lipari", "Taormina"]
 ---
-
-# Five Sicilies
 
 Take a journey through time when you visit these five Sicilian attractions. Medievalists
 and Italian culture enthusiasts will enjoy an abundance of architectural masterpieces

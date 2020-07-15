@@ -46,7 +46,7 @@ mkdir -p "$DISTDIR"
 
 echo cloning required repos
 git clone https://github.com/the-norman-sicily-project/interactive-map.git "$BUILDDIR/interactive-map"
-git clone https://github.com/the-norman-sicily-project/genealogical-trees.git "$BUILDDIR/genealogical-trees"
+git clone https://github.com/the-norman-sicily-project/genealogical-trees.git -b "jph-cytoscapejs" "$BUILDDIR/genealogical-trees"
 git clone https://github.com/the-norman-sicily-project/data-dumps.git "$BUILDDIR/data-dumps"
 
 echo $(cat $BUILDDIR/interactive-map/package.json | jq '.homepage='\"${BASE_URL}places/map/\") \
@@ -71,8 +71,9 @@ echo copy interactive mapping files
 cp -pr "$BUILDDIR/interactive-map/build"/* "$DISTDIR/places/map/."
 
 echo copy genealogical tree files
-cp -p "$BUILDDIR/genealogical-trees/d3.v3.5.17.min.js" "$DISTDIR/people/family-tree/."
-cp -p "$BUILDDIR/genealogical-trees/nsp.html" "$DISTDIR/people/family-tree/."
+cp -p "$BUILDDIR/genealogical-trees/"*.js "$DISTDIR/people/family-tree/."
+cp -p "$BUILDDIR/genealogical-trees/index.html" "$DISTDIR/people/family-tree/."
+cp -p "$BUILDDIR/genealogical-trees/"*.css "$DISTDIR/people/family-tree/."
 cp -p "$BUILDDIR/genealogical-trees/data/nsp.json" "$DISTDIR/people/family-tree/data/."
 
 echo copy data files

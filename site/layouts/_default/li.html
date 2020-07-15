@@ -1,6 +1,7 @@
+{{- $is_video_post :=  (isset .Params "is_video_post") | default false }}
 <article>
   <header>
-    <h1 class="li-h1"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+    <h2 class="li-h2"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
     <div class="clearfix">
       <div class="post-date pull-left">
         <span class="li-small">
@@ -21,7 +22,11 @@
     <div class="read-more-container">
       <a class="btn btn-primary" href="{{ .Permalink }}">
         <div>
-          {{ i18n "readMore" }} <span aria-hidden="true">&rarr;</span>
+          {{ if and (isset .Params "is_video_post") (eq .Params.is_video_post true)}}
+            {{ i18n "seeMore" }} <span aria-hidden="true">&rarr;</span>
+          {{ else }}
+            {{ i18n "readMore" }} <span aria-hidden="true">&rarr;</span>
+          {{ end }}
         </div>
       </a>
     </div>

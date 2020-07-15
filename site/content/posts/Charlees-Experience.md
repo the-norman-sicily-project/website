@@ -1,11 +1,9 @@
 ---
 title: "Charlee's Experience"
-date: 2020-01-24T14:07:58-05:00
+date: 2020-02-28T14:07:58-05:00
 draft: false
-tags: ["post"]
+tags: ["Charlee", "research", "history", "film"]
 ---
-# Charlee's Experience
-
 In my journey with *The Norman Sicily Project*, the nature of my work has grown
 alongside the project’s progression. In this evolution, I have been given a number of invaluable
 opportunities to learn new skills and refine pre-existing ones. The process of cataloging and
@@ -16,7 +14,6 @@ the force of scripture. My capacity to concisely describe images has also proven
 of the same function. With the completion of the image portion of the project, I have more
 recently been assigned to a heavily research-oriented task.
 
-
 I, along with other students on the project, have been given an opportunity to expand
 research on the churches of Norman Sicily, including engaging primary source texts. This type
 of work is not something I have been given much exposure to in my academic career. Aside
@@ -26,7 +23,6 @@ process is not something many people are given an opportunity to explore and I a
 been tasked with such an important part of the project’s development. The work I have
 completed in the past several months has made me a stronger student and individual, allowing
 me to explore and expand skills I did not know I had.
-
 
 Overall, the project constantly reminds me of the importance of documenting history and
 the value of understanding processes of the historian. While my field (filmmaking) seems a bit

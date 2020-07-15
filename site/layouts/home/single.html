@@ -1,0 +1,13 @@
+{{ partial "header_home.html" . }}
+{{ $baseurl := .Site.BaseURL }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+<article>
+  <header class="article-title">
+    <h2 class="text-primary">{{ .Title }}</h2>
+  </header>
+  <section>
+    {{ .Content }}
+  </section>
+<div class="delimiter"></div>
+
+{{ partial "footer_home.html" . }}
