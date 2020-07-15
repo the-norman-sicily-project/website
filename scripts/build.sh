@@ -46,7 +46,7 @@ mkdir -p "$DISTDIR"
 
 echo cloning required repos
 git clone https://github.com/the-norman-sicily-project/interactive-map.git "$BUILDDIR/interactive-map"
-git clone https://github.com/the-norman-sicily-project/genealogical-trees.git -b "jph-cytoscapejs" "$BUILDDIR/genealogical-trees"
+git clone https://github.com/the-norman-sicily-project/genealogical-trees.git -b "jph-nsp" "$BUILDDIR/genealogical-trees"
 git clone https://github.com/the-norman-sicily-project/data-dumps.git "$BUILDDIR/data-dumps"
 
 echo $(cat $BUILDDIR/interactive-map/package.json | jq '.homepage='\"${BASE_URL}places/map/\") \
