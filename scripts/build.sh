@@ -75,6 +75,7 @@ cp -p "$BUILDDIR/genealogical-trees/"*.js "$DISTDIR/people/family-tree/."
 cp -p "$BUILDDIR/genealogical-trees/index.html" "$DISTDIR/people/family-tree/."
 cp -p "$BUILDDIR/genealogical-trees/"*.css "$DISTDIR/people/family-tree/."
 cp -p "$BUILDDIR/genealogical-trees/data/nsp.json" "$DISTDIR/people/family-tree/data/."
+cp -p "$BUILDDIR/genealogical-trees/data/*.png" "$DISTDIR/people/family-tree/data/."
 
 echo copy data files
 cp -pr "$BUILDDIR/data-dumps/latest/." "$DISTDIR/data/."
