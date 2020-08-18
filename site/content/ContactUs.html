@@ -9,28 +9,29 @@ noshowpager: true
     <form class="form-horizontal" action="https://getform.io/f/a50e3ee4-43dd-496e-92b4-a79e90b5197c" method="POST"
         enctype="multipart/form-data">
         <div class="form-group">
-            <label class="control-label col-sm-3" for="fname">First Name:</label>
+            <label class="control-label col-sm-3" for="fname" required="true">First Name:</label>
             <div class="col-sm-9">
-                <input type="text" class="form-control" id="fname" placeholder="Your First Name">
+                <input type="text" class="form-control" name="fname" id="fname" placeholder="Your First Name">
             </div>
         </div>
         <div class="form-group">
-            <label class="control-label col-sm-3" for="lname">Last Name:</label>
+            <label class="control-label col-sm-3" for="lname" required="true">Last Name:</label>
             <div class="col-sm-9">
-                <input type="text" class="form-control" id="lname" placeholder="Your Last Name">
+                <input type="text" class="form-control" name="lname" id="lname" placeholder="Your Last Name">
             </div>
         </div>
         <div class="form-group">
             <label class="control-label col-sm-3" for="affiliation">Affiliation:</label>
             <div class="col-sm-9">
-                <input type="text" class="form-control" id="affiliation" placeholder="Your Affiliation">
+                <input type="text" class="form-control" name="affiliation" id="affiliation"
+                    placeholder="Your Affiliation">
             </div>
 
         </div>
         <div class="form-group">
             <label class="control-label col-sm-3" for="about">About:</label>
             <div class="col-sm-9">
-                <select class="form-control" id="about" name="about">
+                <select class="form-control" name="about" id="about" name="about" required="true">
                     <option value="Choose One">Choose One</option>
                     <option value="Data Submission">Data Submission*</option>
                     <option value="Data Correction">Data Correction*</option>
@@ -41,25 +42,28 @@ noshowpager: true
         <div class="form-group">
             <label class="control-label col-sm-3" for="email">Email:</label>
             <div class="col-sm-9">
-                <input type="email" class="form-control" id="email" placeholder="Your Email Address">
+                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email Address"
+                    required="true">
             </div>
         </div>
         <div class="form-group">
             <label class="control-label col-sm-3" for="subject">Subject:</label>
             <div class="col-sm-9">
-                <input type="text" class="form-control" id="subject" placeholder="Subject">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject">
             </div>
         </div>
         <div class="form-group">
             <label class="control-label col-sm-3" for="message">Message:</label>
             <div class="col-sm-9">
-                <textarea class="form-control" id="message" placeholder="Write Something..." rows="3"></textarea>
+                <textarea class="form-control" name="message" id="message" placeholder="Write Something..."
+                    rows="3"></textarea>
             </div>
         </div>
         <div class="form-group">
             <label for="inputFile" class="control-label col-sm-3">File:</label>
             <div class="col-sm-9">
-                <input class="form-control" type="file" id="inputFile" aria-describedby="input-file-help-block">
+                <input class="form-control" type="file" name="inputFile" id="inputFile"
+                    aria-describedby="input-file-help-block">
             </div>
             <p id="input-file-help-block" class="help-block">* For data submissions and/or corrections, please be
                 specific and attach documentation
