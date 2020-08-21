@@ -48,6 +48,7 @@ echo cloning required repos
 git clone https://github.com/the-norman-sicily-project/interactive-map.git "$BUILDDIR/interactive-map"
 git clone https://github.com/the-norman-sicily-project/genealogical-trees.git -b "jph-nsp" "$BUILDDIR/genealogical-trees"
 git clone https://github.com/the-norman-sicily-project/data-dumps.git "$BUILDDIR/data-dumps"
+git clone https://github.com/joephayes/sicilian-monastic-orders-choropleth-map.git "$BUILDDIR/sicilian-monastic-orders-choropleth-map"
 
 echo $(cat $BUILDDIR/interactive-map/package.json | jq '.homepage='\"${BASE_URL}places/map/\") \
 > $BUILDDIR/interactive-map/package.$$.json && \
@@ -75,7 +76,14 @@ cp -p "$BUILDDIR/genealogical-trees/"*.js "$DISTDIR/people/family-tree/."
 cp -p "$BUILDDIR/genealogical-trees/index.html" "$DISTDIR/people/family-tree/."
 cp -p "$BUILDDIR/genealogical-trees/"*.css "$DISTDIR/people/family-tree/."
 cp -p "$BUILDDIR/genealogical-trees/data/nsp.json" "$DISTDIR/people/family-tree/data/."
-cp -p "$BUILDDIR/genealogical-trees/data/*.png" "$DISTDIR/people/family-tree/data/."
+cp -p "$BUILDDIR/genealogical-trees/data/"*.png "$DISTDIR/people/family-tree/data/."
+cp -pr "$BUILDDIR/genealogical-trees/data/." "$DISTDIR/data/."
 
 echo copy data files
 cp -pr "$BUILDDIR/data-dumps/latest/." "$DISTDIR/data/."
+
+echo copy Sicilian Monastic Orders Choropleth Map files
+cp -p "$BUILDDIR/sicilian-monastic-orders-choropleth-map/config.js.sample" "$BUILDDIR/sicilian-monastic-orders-choropleth-map/config.js"
+sed -i -e "s/YOUR MAPBOX ACCESS TOKEN/${MAPBOX_ACCESS_TOKEN}/g" "$BUILDDIR/sicilian-monastic-orders-choropleth-map/config.js"
+mkdir "$DISTDIR/sicilian-monastic-orders-choropleth-map"
+cp -p "$BUILDDIR/sicilian-monastic-orders-choropleth-map"/* "$DISTDIR/sicilian-monastic-orders-choropleth-map/."
