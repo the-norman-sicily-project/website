@@ -7,3 +7,4 @@ noshowpager: true
 ---
 {{< iframe src="family-tree/index.html" >}}
 
+You can download the dataset used to generate this graph from the [resources page](../resources/download/)
