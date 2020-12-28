@@ -1,0 +1,24 @@
+[pageNotExists]
+  other = "La pagina è inesistente!"
+[home]
+  other = "Home"
+[newerPosts]
+  other = "Nuovi post"
+[olderPosts]
+  other = "Post precedenti"
+[pageOf]
+  other = "Pagina {{ .PageNumber }} di {{ .TotalPages }}"
+[postedOn]
+  other = "Pubblicato il"
+[readMore]
+  other = "Leggi tutto"
+[seeMore]
+  other = "Visualizza"
+[contactMe]
+  other = "Contattami"
+[dateTimeFormat]
+  other = "Jan 2, 2006 at 15:04"
+[dateFormat]
+  other = "Jan 2, 2006"
+[allTags]
+  other = "All tags"

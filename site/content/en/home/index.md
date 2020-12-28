@@ -31,9 +31,9 @@ of our team, Jamila Haramuniz ([CSAM](https://www.montclair.edu/csam/), 2020), h
 as her knowledge of R to the project, making it possible to consider the
 data in new ways. In addition, Matthew Parlapiano ([CEHS](https://www.montclair.edu/cehs/), 2019) did a fine job of extracting data from Alexander of Telese's History, performing the tedious work of preparing the text for machine processing. During the 2019-2020 academic year, we are fortunate to have working on the project as media and metadata assistants Christina Giordano ([CHSS](https://www.montclair.edu/chss/) and [CART](https://www.montclair.edu/arts/), 2022), Grace Last ([CHSS](https://www.montclair.edu/chss/), 2021), Alessandra Lentini ([CART](https://www.montclair.edu/arts/), 2021), James Leyva ([CHSS](https://www.montclair.edu/chss/), 2021) and Charlee Reiff ([CART](https://www.montclair.edu/arts/), 2020). We are very grateful to each of them.
 
-We are also indebted to Dot Porter, Curator of Digital Research Services at the [Schoenberg Institute for Manuscript Studies](https://schoenberginstitute.org/) at the [University of Pennsylvania](https://home.www.upenn.edu/) for student training and for supporting the organization and processing of the monastic media during the 2019-2020 academic year.
-
 Other assistance was generously offered by Max Wilson ([Yale University](http://yale.edu/), 2019), who served as a research assistant during the project's 2019 fieldwork. That same summer, Anastasia Hayes ([Macaulay Honors College](https://macaulay.cuny.edu/), 2017) provided invaluable translation support and participated in data collection as Madeleine Hayes ([Macaulay Honors College](https://macaulay.cuny.edu/), 2018) navigated and managed logistics of travel. We would also like to thank Alessandra Hayes ([Macaulay Honors College](https://macaulay.cuny.edu/), 2023) for her social media support.
+
+Alessandra Faranda, currently studying law at the University of Palermo, has skillfully translated the English version of the site and, in doing so, has made it accessible to a wide Italian public.
 
 We are also grateful to Mel Colella, whose fine editing skills greatly improved the opening video.
 

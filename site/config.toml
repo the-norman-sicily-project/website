@@ -1,13 +1,11 @@
 baseurl = "http://www.normansicily.org/"
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = "true"
-title = "The Norman Sicily Project"
+defaultContentLanguageInSubdir = true
+
 theme = "hamburg"
+enableMissingTranslationPlaceholders="true"
 
 [params]
-    title = "The Norman Sicily Project"
-    subtitle = "Documenting Sicily's First Kingdom, 1061-1194"
-    # Short subtitle/tagline. This is displayed in the header.
     themecolor = "#hexcolor" # Defines the tab color in Chrome for Android.
     # To load additional CSS styles
     customCSS = ['custom.css']
@@ -26,7 +24,11 @@ theme = "hamburg"
 [languages]
     [languages.en]
         languageCode = "en"
+        weight = "1"
+        contentDir = "content/en"
         languageName = "English"
+        title = "The Norman Sicily Project"
+        subtitle = "Documenting Sicily's First Kingdom, 1061-1194"
         # Copyright notice. This is displayed in the footer.
         copyright = "&copy;  2015 - 2020 by Dawn Marie Hayes and Joseph Hayes. All Rights Reserved."
         [languages.en.menu]
@@ -58,5 +60,45 @@ theme = "hamburg"
             [[languages.en.menu.main]]
                 name = "CONTACT US"
                 identifier = "ContactUs"
+                url = "contactus"
+                weight = 1
+    [languages.it]
+        languageCode = "it"
+        weight = "2"
+        languageName = "Italiano"
+        contentDir = "content/it"
+        title = "Sicilia Normanna"
+        subtitle = "Documentazione del Primo Regno di Sicilia, 1061-1194"
+        # Copyright notice. This is displayed in the footer.
+        copyright = "&copy;  2015 - 2020 by Dawn Marie Hayes and Joseph Hayes. All Rights Reserved."
+        [languages.it.menu]
+            [[languages.it.menu.main]]
+                name = "HOME"
+                identifier = "HOME"
+                url = "home"
+                weight = 9
+            [[languages.it.menu.main]]
+                name = "PERSONE"
+                identifier = "PERSONE"
+                url = "people"
+                weight = 6
+            [[languages.it.menu.main]]
+                name = "LUOGHI"
+                identifier = "LUOGHI"
+                url = "places"
+                weight = 5
+            [[languages.it.menu.main]]
+                name = "RISORSE"
+                identifier = "RISORSE"
+                url = "resources"
+                weight = 3
+            [[languages.it.menu.main]]
+                name = "BLOG"
+                identifier = "BLOG"
+                url = "posts"
+                weight = 4
+            [[languages.it.menu.main]]
+                name = "CONTATTACI"
+                identifier = "Contattaci"
                 url = "contactus"
                 weight = 1

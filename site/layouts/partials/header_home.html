@@ -55,6 +55,26 @@
     <div class="homepage-menu-container">
       <div class="homepage-menu" id="homePageNav">
 
+                <!-- Languages -->
+      {{ $url := urls.Parse .Permalink }}
+      <!-- The url.Host has only the domain in it -->
+      {{ $address := print $url.Scheme "://" $url.Host }}
+      <!-- Dirrerence between address and base URL. This could result in "" or "/beta/" or similar. -->
+      {{ $i18nBasePath := strings.TrimPrefix $address .Site.BaseURL }}
+      <!-- Path like "/beta/" attached with the language code. E.g. "/beta/de" -->
+      {{ $pathPrefix := print $i18nBasePath .Language }}
+      <!-- This will get the path to the resource from the language code and beyond -->
+      {{ $path := strings.TrimPrefix $pathPrefix $url.Path }}
+
+      {{ if .IsTranslated }}
+      <div class="language-container">
+        {{ range .Site.Home.AllTranslations }}
+          {{ $svgFile := print "static/svgs/" .Language.Lang ".svg" }}
+          <a class="btn btn-default language-button" href="{{ .Permalink }}">{{ $svgFile | readFile | safeHTML }}</a>
+        {{ end }}
+      </div>
+      {{ end }}
+
         {{ partial "link.html" . }}
 
         {{ range .Site.Menus.main }}
@@ -62,6 +82,8 @@
           {{ .Name }}
         </a>
         {{ end }}
+
+ 
 
       </div>
     </div>
@@ -94,24 +116,7 @@
     <section class="header-text">
       <!-- sites -->
 
-      <!-- Languages -->
-      {{ $url := urls.Parse .Permalink }}
-      <!-- The url.Host has only the domain in it -->
-      {{ $address := print $url.Scheme "://" $url.Host }}
-      <!-- Dirrerence between address and base URL. This could result in "" or "/beta/" or similar. -->
-      {{ $i18nBasePath := strings.TrimPrefix $address .Site.BaseURL }}
-      <!-- Path like "/beta/" attached with the language code. E.g. "/beta/de" -->
-      {{ $pathPrefix := print $i18nBasePath .Language }}
-      <!-- This will get the path to the resource from the language code and beyond -->
-      {{ $path := strings.TrimPrefix $pathPrefix $url.Path }}
-      {{ if .IsTranslated }}
-      <div class="language-container">
-        {{ range .Site.Home.AllTranslations }}
-        <a class="btn btn-default language-button"
-          href="{{ .URL }}{{ strings.TrimPrefix "/" $path }}">{{ .Language.LanguageName }}</a>
-        {{ end }}
-      </div>
-      {{ end }}
+     
     </section>
   </header>
   <main class="container">
