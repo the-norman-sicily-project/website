@@ -5,5 +5,5 @@ draft: false
 noshowdate: true
 noshowpager: true
 ---
-{{< iframe src="./map" >}}
+{{< iframe src="/places/map" >}}
 

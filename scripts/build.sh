@@ -63,6 +63,7 @@ cp -pr "$PROJECTDIR/site/public"/* "$DISTDIR"
 echo build interactive map
 cp -p "$BUILDDIR/interactive-map/src/apikeys.js.sample" "$BUILDDIR/interactive-map/src/apikeys.js"
 sed -i -e "s/YOUR MAPBOX ACCESS TOKEN/${MAPBOX_ACCESS_TOKEN}/g" "$BUILDDIR/interactive-map/src/apikeys.js"
+sed -i -e "s/map\/data/\/data/g" "$BUILDDIR/interactive-map/src/config.js"
 pushd "$BUILDDIR/interactive-map"
 yarn install
 yarn build --production
@@ -75,9 +76,9 @@ echo copy genealogical tree files
 cp -p "$BUILDDIR/genealogical-trees/"*.js "$DISTDIR/people/family-tree/."
 cp -p "$BUILDDIR/genealogical-trees/index.html" "$DISTDIR/people/family-tree/."
 cp -p "$BUILDDIR/genealogical-trees/"*.css "$DISTDIR/people/family-tree/."
-cp -p "$BUILDDIR/genealogical-trees/data/nsp.json" "$DISTDIR/people/family-tree/data/."
-cp -p "$BUILDDIR/genealogical-trees/data/"*.png "$DISTDIR/people/family-tree/data/."
-cp -pr "$BUILDDIR/genealogical-trees/data/." "$DISTDIR/data/."
+cp -p "$BUILDDIR/genealogical-trees/data/"*.png "$DISTDIR/data/."
+cp -p "$BUILDDIR/genealogical-trees/data/"nsp.* "$DISTDIR/data/."
+sed -i -e "s/data\//\/data\//g" "$DISTDIR/people/family-tree/index.js"
 
 echo copy data files
 cp -pr "$BUILDDIR/data-dumps/latest/." "$DISTDIR/data/."
