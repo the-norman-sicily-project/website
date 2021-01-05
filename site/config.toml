@@ -30,7 +30,7 @@ enableMissingTranslationPlaceholders="true"
         title = "The Norman Sicily Project"
         subtitle = "Documenting Sicily's First Kingdom, 1061-1194"
         # Copyright notice. This is displayed in the footer.
-        copyright = "&copy;  2015 - 2020 by Dawn Marie Hayes and Joseph Hayes. All Rights Reserved."
+        copyright = "&copy;  2015 - 2021 by Dawn Marie Hayes and Joseph Hayes. All Rights Reserved."
         [languages.en.menu]
             [[languages.en.menu.main]]
                 name = "HOME"
@@ -70,7 +70,7 @@ enableMissingTranslationPlaceholders="true"
         title = "Sicilia Normanna"
         subtitle = "Documentazione del Primo Regno di Sicilia, 1061-1194"
         # Copyright notice. This is displayed in the footer.
-        copyright = "&copy;  2015 - 2020 by Dawn Marie Hayes and Joseph Hayes. All Rights Reserved."
+        copyright = "&copy;  2015 - 2021 by Dawn Marie Hayes and Joseph Hayes. All Rights Reserved."
         [languages.it.menu]
             [[languages.it.menu.main]]
                 name = "HOME"
