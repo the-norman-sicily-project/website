@@ -74,6 +74,7 @@ cp -pr "$BUILDDIR/interactive-map/build"/* "$DISTDIR/places/map/."
 
 echo copy genealogical tree files
 cp -p "$BUILDDIR/genealogical-trees/"*.js "$DISTDIR/people/family-tree/."
+cp -p "$BUILDDIR/genealogical-trees/"*.json "$DISTDIR/people/family-tree/."
 cp -p "$BUILDDIR/genealogical-trees/index.html" "$DISTDIR/people/family-tree/."
 cp -p "$BUILDDIR/genealogical-trees/"*.css "$DISTDIR/people/family-tree/."
 cp -p "$BUILDDIR/genealogical-trees/data/"*.png "$DISTDIR/data/."
