@@ -5,6 +5,6 @@ draft: false
 noshowdate: true
 noshowpager: true
 ---
-{{< iframe src="/people/family-tree/index.html" >}}
+{{< iframe src="/people/family-tree/index.html?locale=it" >}}
 
 È possibile scaricare il dataset utilizzato per generare questo grafico dal file [resources page](../resources/download/)
