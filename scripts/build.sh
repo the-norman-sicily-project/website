@@ -61,9 +61,6 @@ popd
 cp -pr "$PROJECTDIR/site/public"/* "$DISTDIR"
 
 echo build interactive map
-cp -p "$BUILDDIR/interactive-map/src/apikeys.js.sample" "$BUILDDIR/interactive-map/src/apikeys.js"
-sed -i -e "s/YOUR MAPBOX ACCESS TOKEN/${MAPBOX_ACCESS_TOKEN}/g" "$BUILDDIR/interactive-map/src/apikeys.js"
-sed -i -e "s/map\/data/\/data/g" "$BUILDDIR/interactive-map/src/config.js"
 pushd "$BUILDDIR/interactive-map"
 yarn install
 yarn build --production
