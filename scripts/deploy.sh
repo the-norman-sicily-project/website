@@ -9,7 +9,7 @@ PROJECTDIR=`dirname "$SCRIPTDIR"`
 
 DISTDIR=$PROJECTDIR/dist
 
-BUCKET_NAME=www.normansicily.org
+BUCKET_NAME=normansicily.org
 
 echo checking for required programs
 hash aws 2>/dev/null || { echo >&2 "script requires AWS CLI but it's not installed. Aborting."; exit 1; }
