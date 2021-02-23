@@ -1,0 +1,6 @@
+{{- $format := .Get "format" | default (.Get 1) }}
+{{- $graphUri := .Get "graphUri" | default (.Get 2) | safeHTML }}
+{{- $filename := .Get "filename" | default "export" }}
+{{- $dateNow := now.Format "2006-01-02" }}
+{{- $file := printf "%s_%s.%s" $filename $dateNow $format }}
+<a href="http://{{ getenv "REACT_APP_API_SERVER_HOST" }}:{{ getenv "REACT_APP_API_SERVER_PORT" }}/export?format={{ $format }}&filename={{ $file }}&graphUri={{ $graphUri }}" download="{{- $file -}}" target="_blank">{{ .Inner }}</a>{{- "" -}}
