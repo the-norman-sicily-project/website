@@ -19,7 +19,7 @@ an award administered by the Dean of the [College of Humanities and Social Scien
 
 {{< figure src="NEH-Preferred-Seal820.jpg" alt="NEH" >}}
 
-More information about Dr. Hayes' research on medieval Sicily is available on her [website](http://www.thehayesweb.org/dhayes). Information about Joe Hayes, the project's primary developer, may be found on his [LinkedIn](https://www.linkedin.com/in/joephayes/) page.
+More information about Dr. Hayes' research on medieval Sicily is available on her [website](http://www.dawnmariehayes.org/). Information about Joe Hayes, the project's primary developer, may be found on his [LinkedIn](https://www.linkedin.com/in/joephayes/) page.
 
 ## Credits ##
 

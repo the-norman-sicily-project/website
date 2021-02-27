@@ -18,7 +18,7 @@ Siamo grati per il sostegno finanziario che questo progetto ha ricevuto dall'Ang
 
 {{< figure src="NEH-Preferred-Seal820.jpg" alt="NEH" >}}
 
-Maggiori informazioni sulle ricerche della Dott.ssa Hayes sulla Sicilia medievale sono disponibili sul suo [website](http://www.thehayesweb.org/dhayes). Informazioni su Joe Hayes, il principale sviluppatore del progetto, sono consultabili sulla sua pagina [LinkedIn](https://www.linkedin.com/in/joephayes/).
+Maggiori informazioni sulle ricerche della Dott.ssa Hayes sulla Sicilia medievale sono disponibili sul suo [website](http://www.dawnmariehayes.org/). Informazioni su Joe Hayes, il principale sviluppatore del progetto, sono consultabili sulla sua pagina [LinkedIn](https://www.linkedin.com/in/joephayes/).
 
 ## Crediti ##
 
