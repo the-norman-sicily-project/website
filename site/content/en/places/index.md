@@ -7,3 +7,4 @@ noshowpager: true
 ---
 {{< iframe src="/places/map?locale=en" >}}
 
+Images can also be viewed at the [NSP's media page](http://media.normansicily.org/)
