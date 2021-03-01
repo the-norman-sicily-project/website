@@ -7,4 +7,4 @@ noshowpager: true
 ---
 {{< iframe src="http://normansicily.org/places/map/index.html?locale=it" >}}
 
-Le immagini possono anche essere visualizzate nella [pagina dei media dell'NSP](http://media.normansicily.org/) 
+{{<styled_p>}}Le immagini possono anche essere visualizzate nella [pagina dei media dell'NSP](http://media.normansicily.org/){{</styled_p>}}

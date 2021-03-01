@@ -7,4 +7,4 @@ noshowpager: true
 ---
 {{< iframe src="/people/family-tree/index.html?locale=it" >}}
 
-È possibile scaricare il dataset utilizzato per generare questo grafico dal file [resources page](../resources/download/)
+{{<styled_p>}}È possibile scaricare il dataset utilizzato per generare questo grafico dal file [resources page](../resources/download/){{</styled_p>}}

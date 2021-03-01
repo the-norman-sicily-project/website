@@ -749,3 +749,7 @@ a:hover, a:focus {
    float:right;
    padding-left: 40px;
 }
+
+.centered-text {
+    text-align: center;
+}
