@@ -26,7 +26,7 @@ Alcuni studenti della [Montclair State University](http://www.montclair.edu/) ha
 
 Altra assistenza è stata generosamente offerta da Max Wilson ([Yale University](http://yale.edu/), 2019), che ha servito come assistente di ricerca durante il lavoro sul campo nel progetto del 2019. Quella stessa estate, Anastasia Hayes ([Macaulay Honors College](https://macaulay.cuny.edu/), 2017) ha fornito un inestimabile supporto nella traduzione e ha partecipato alla raccolta dei dati come Madeleine Hayes ([Macaulay Honors College](https://macaulay.cuny.edu/), 2018) ha navigato e gestito la logistica dei viaggi. Vorremmo anche ringraziare Alessandra Hayes ([Macaulay Honors College](https://macaulay.cuny.edu/), 2023) per il suo supporto nei social media.
 
-Alessandra Faranda, attualmente studentessa di Giurisprudenza presso l'Università degli Studi di Palermo, ha abilmente tradotto la versione inglese del sito e, cosi facendo, l'ha resa accessibile ad un vasto pubblico italiano
+Alessandra Faranda, attualmente studentessa di Giurisprudenza presso [l'Università degli Studi di Palermo](https://www.unipa.it/), ha abilmente tradotto la versione inglese del sito e, cosi facendo, l'ha resa accessibile ad un vasto pubblico italiano
 
 Siamo grati anche a Mel Colella, le cui abilità nell'editing hanno notevolmente migliorato il video di apertura.
 

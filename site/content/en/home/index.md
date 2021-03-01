@@ -33,7 +33,7 @@ data in new ways. In addition, Matthew Parlapiano ([CEHS](https://www.montclair.
 
 Other assistance was generously offered by Max Wilson ([Yale University](http://yale.edu/), 2019), who served as a research assistant during the project's 2019 fieldwork. That same summer, Anastasia Hayes ([Macaulay Honors College](https://macaulay.cuny.edu/), 2017) provided invaluable translation support and participated in data collection as Madeleine Hayes ([Macaulay Honors College](https://macaulay.cuny.edu/), 2018) navigated and managed logistics of travel. We would also like to thank Alessandra Hayes ([Macaulay Honors College](https://macaulay.cuny.edu/), 2023) for her social media support.
 
-Alessandra Faranda, currently studying law at the University of Palermo, has skillfully translated the English version of the site and, in doing so, has made it accessible to a wide Italian public.
+Alessandra Faranda, currently studying law at the [University of Palermo](https://www.unipa.it/), has skillfully translated the English version of the site and, in doing so, has made it accessible to a wide Italian public.
 
 We are also grateful to Mel Colella, whose fine editing skills greatly improved the opening video.
 
