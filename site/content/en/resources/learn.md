@@ -21,3 +21,7 @@ The project's [backstory](https://www.youtube.com/watch?v=YGKlwjaH-cw&feature=yo
 ### White Paper {class="resource-item"} ###
 
 [National Endowment for the Humanities](https://www.neh.gov/)' Humanities Collections and Reference Resources White Paper (forthcoming).
+
+### Bibliography {class="resource-item"} ###
+
+The [NSP's bibliography](https://www.zotero.org/groups/2199947/norman_sicily_project/library)
