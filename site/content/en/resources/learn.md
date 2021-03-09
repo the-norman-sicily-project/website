@@ -24,4 +24,4 @@ The project's [backstory](https://www.youtube.com/watch?v=YGKlwjaH-cw&feature=yo
 
 ### Bibliography {class="resource-item"} ###
 
-The [NSP's bibliography](https://www.zotero.org/groups/2199947/norman_sicily_project/library)
+The [NSP's bibliography](https://www.zotero.org/groups/2199947/norman_sicily_project/library).

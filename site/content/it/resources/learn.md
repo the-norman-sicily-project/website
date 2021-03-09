@@ -19,8 +19,8 @@ Dawn Marie Hayes e Joseph Hayes, The Norman Sicily Project: A Digital Portal to 
 
 ### Libro bianco {class="resource-item"} ###
 
-Il (futuro) Libro bianco di Humanities Collections and Reference Resources del [National Endowment for the Humanities](https://www.neh.gov/)
+Il (futuro) Libro bianco di Humanities Collections and Reference Resources del [National Endowment for the Humanities](https://www.neh.gov/).
 
 ### Bibliografia {class="resource-item"} ###
 
-[La bibliografia dell'NSP](https://www.zotero.org/groups/2199947/norman_sicily_project/library)
+[La bibliografia dell'NSP](https://www.zotero.org/groups/2199947/norman_sicily_project/library).
