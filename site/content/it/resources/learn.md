@@ -16,7 +16,7 @@ Dawn Marie Hayes e Joseph Hayes, The Norman Sicily Project: A Digital Portal to 
 
 ### Video {class="resource-item"} ###
 
-La spiegazione di Dr. Greg Pope del [Cultural Stone Stability Index](https://www.shralliance.com/cssi) (CSSI), un adattamento del [Rock Art Stability Index](https://www.shralliance.com/rasi) (RASI) sviluppato degli membri dello [Stone Heritage Research Alliance](https://www.shralliance.com/), stiamo usando per valutato alcunii sopraviventi monumenti della Sicilia normanna.
+La spiegazione di Dr. Greg Pope del [Cultural Stone Stability Index](https://www.shralliance.com/cssi) (CSSI), un adattamento del [Rock Art Stability Index](https://www.shralliance.com/rasi) (RASI) sviluppato degli membri dello [Stone Heritage Research Alliance](https://www.shralliance.com/), che stiamo usando per valutato alcuni sopraviventi monumenti della Sicilia normanna.
 
 {{< youtube id=CTZxt60CDUE >}}
 
