@@ -15,8 +15,14 @@ Dawn Marie Hayes e Joseph Hayes, The Norman Sicily Project: An Ongoing, Web-Base
 Dawn Marie Hayes e Joseph Hayes, The Norman Sicily Project: A Digital Portal to Sicily's Norman Past, [Digital Medievalist](https://journal.digitalmedievalist.org/), 12(1), p.3. DOI: [http://doi.org/10.16995/dm.68](http://doi.org/10.16995/dm.68).
 
 ### Video {class="resource-item"} ###
-[Retroscena](https://www.youtube.com/watch?v=YGKlwjaH-cw&feature=youtu.be) del progetto, attraverso [Office of Alumni Relations](https://www.montclair.edu/alumni/) della [Montclair State University](http://montclair.edu/).
 
+La spiegazione di Dr. Greg Pope del [Cultural Stone Stability Index](https://www.shralliance.com/cssi) (CSSI), un adattamento del [Rock Art Stability Index](https://www.shralliance.com/rasi) (RASI) sviluppato degli membri dello [Stone Heritage Research Alliance](https://www.shralliance.com/), stiamo usando per valutato alcunii sopraviventi monumenti della Sicilia normanna.
+
+{{< youtube id=CTZxt60CDUE >}}
+
+Clicca qui per un [PDF dell'Indice](/pdfs/cultural_stone_stability_index.pdf)
+
+[Retroscena](https://www.youtube.com/watch?v=YGKlwjaH-cw&feature=youtu.be) del progetto, attraverso [Office of Alumni Relations](https://www.montclair.edu/alumni/) della [Montclair State University](http://montclair.edu/).
 ### Libro bianco {class="resource-item"} ###
 
 Il (futuro) Libro bianco di Humanities Collections and Reference Resources del [National Endowment for the Humanities](https://www.neh.gov/).

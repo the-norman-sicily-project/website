@@ -16,6 +16,12 @@ Dawn Marie Hayes and Joseph Hayes, The Norman Sicily Project: A Digital Portal t
 
 ### Videos {class="resource-item"} ###
 
+Dr. Greg Pope's explanation of the [Cultural Stone Stability Index](https://www.shralliance.com/cssi) (CSSI), an adaptation of the [Rock Art Stability Index](https://www.shralliance.com/rasi) (RASI) developed by members of the [Stone Heritage Research Alliance](https://www.shralliance.com/), we are using to assess a number of Sicily's surviving Norman monuments. 
+
+{{< youtube id=CTZxt60CDUE >}}
+
+Click here for a [PDF of the Index](/pdfs/cultural_stone_stability_index.pdf)
+
 The project's [backstory](https://www.youtube.com/watch?v=YGKlwjaH-cw&feature=youtu.be), via [Montclair State University](http://montclair.edu/)'s [Office of Alumni Relations](https://www.montclair.edu/alumni/).
 
 ### White Paper {class="resource-item"} ###
