@@ -20,7 +20,7 @@ La spiegazione di Dr. Greg Pope del [Cultural Stone Stability Index](https://www
 
 {{< youtube id=CTZxt60CDUE >}}
 
-Clicca qui per un [PDF dell'Indice](/pdfs/cultural_stone_stability_index.pdf)
+Clicca qui per un [PDF dell'Indice](/pdfs/cultural_stone_stability_index.pdf). I siti monastici abbiamo valutato: St. Nicholas of Fico, St. Venera of Vanella, St. Lucy of Adernò, Christ the Savior of Placa, St. Bartholomew of Lipari, St. Philip of Agirà, Sts. Peter and Paul d'Agrò and St. George of Gratteri.
 
 [Retroscena](https://www.youtube.com/watch?v=YGKlwjaH-cw&feature=youtu.be) del progetto, attraverso [Office of Alumni Relations](https://www.montclair.edu/alumni/) della [Montclair State University](http://montclair.edu/).
 ### Libro bianco {class="resource-item"} ###
