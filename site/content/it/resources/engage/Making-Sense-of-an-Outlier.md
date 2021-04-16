@@ -1,16 +1,15 @@
 ---
-title: "Making Sense of an Outlier: The Priory of St. George of Gratteri"
+title: "Monasticism and ... Marriage?"
 date: 2021-04-09T13:14:58-05:00
 draft: false
-tags: ["Nuns"]
+tags: ["St. George of Gratteri", "Duke Roger", "Premonstratensian Canons", "Gratteri"]
 type: "blog"
-summary: "Striking against the rolling hills of the Madonie Mountains, the isolated remains of
-the Premonstratensian Priory of St. George are a sight to behold."
+summary: "Was the foundation of the seemingly random priory of St. George of Gratteri an attempt to woo a bride and her very powerful dad?"
 author: "Dawn Marie Hayes"
 ---
 
-Striking against the rolling hills of the Madonie Mountains, the isolated remains of
-the Premonstratensian Priory of St. George are a sight to behold.[^1]
+[^1]Striking against the rolling hills of the Madonie Mountains, the isolated remains of
+the Premonstratensian Priory of St. George are a sight to behold.
 
 {{< figure src="gratteri_arch.png" alt="Detail from the Western Portal of the Premonstratensian Priory of St. George, Gratteri" caption="Figure 1 Detail from the Western Portal of the Premonstratensian Priory of St. George, Gratteri" >}}
 

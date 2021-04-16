@@ -2,9 +2,9 @@
 title: "There Weren't Many Nuns in Norman Sicily"
 date: 2021-04-09T13:11:58-05:00
 draft: false
-tags: ["Nuns"]
+tags: ["nuns", "gender", "women"]
 type: "blog"
-summary: "Why were there so few nuns in Norman Sicily?"
+summary: "Why were there so few nuns?"
 author: "Dawn Marie Hayes"
 ---
 
@@ -20,7 +20,7 @@ The obvious takeaway from this chart is that female communities made up just 7% 
 
 {{< figure src="female_communities_chart.png" alt="" caption="" >}}
 
-_*The locations’ designations have been taken from the Arab geographer Muhammad al-Idrisi’s Arabic text.  King Roger II commissioned Idrisi to write the_ Kitāb nuzhat al-mushtāq fī ikhtirāq al-āfāq (The Pleasure Excursion of One Who Is Eager to Traverse the Regions of the World), _whose title Idrisi later changed to_ Kitab Rujar (Book of Roger) _around 1139. For the Arabic text, see_ Opus geographicum; sive, “Liber ad eorum delectationem qui terras peragrare student” _(Leiden: Brill, 19[70]-1984). A modern French edition based on Pierre-Amédée Jaubert’s nineteenth-century translation is available in_ La première géographie de l’Occident, _trans. Henri Bresc and Annliese Nef (Paris: Flammarion, 1999). A partial English translation is available in Graham Loud,_ Roger II and the Creation of the Kingdom of Sicily _(Manchester: Manchester University Press, 2012), 355-63._
+_*The locations’ designations have been taken from the Arab geographer Muhammad al-Idrisi’s Arabic text.  King Roger II commissioned Idrisi to write the_ Kitāb nuzhat al-mushtāq fī ikhtirāq al-āfāq (The Pleasure Excursion of One Who Is Eager to Traverse the Regions of the World), _whose title Idrisi later changed to_ Kitab Rujar (Book of Roger) _around 1139. For the Arabic text, see_ Opus geographicum; sive, “Liber ad eorum delectationem qui terras peragrare studeant” _(Leiden: Brill, 19[70]-1984). A modern French edition based on Pierre-Amédée Jaubert’s nineteenth-century translation is available in_ La première géographie de l’Occident, _trans. Henri Bresc and Annliese Nef (Paris: Flammarion, 1999). A partial English translation is available in Graham Loud,_ Roger II and the Creation of the Kingdom of Sicily _(Manchester: Manchester University Press, 2012), 355-63._
 
 ## Preliminary Conclusions
 

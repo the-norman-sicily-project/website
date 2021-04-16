@@ -1,10 +1,10 @@
 ---
-title: "An Opportunity for Data Comparison with Norman Sicily’s Monastic Landscape is now Possible"
+title: "The Hard vs. Soft Power of Medieval Monasticism: A Comparison with the English Data"
 date: 2021-04-09T13:17:58-05:00
 draft: false
-tags: ["Monasteries"]
+tags: ["comparison", "England", "Alison Binns", "Nicholas Orme", "cult of the saints"]
 type: "blog"
-summary: "Quantifying the evidence and harnessing the power in technology to render it visually opens up new ways of understanding Sicily’s landscape. Take, for example, this stacked bar graph that represents the breakdown of Norman Sicily’s monastic houses by gender and order."
+summary: "An examination of Siculo-Norman monasteries and their dedications revelas that although the Normans maintained control over the monastic orders - the \"hard power\" that could have strong political ramifications on the island - they were less focused on streamlining the softer power that was represented by the cults of the saints."
 author: "Dawn Marie Hayes"
 ---
 
@@ -18,7 +18,7 @@ It is noteworthy that some orders had little influence.[^8] For example, Cluniac
 
 Distribution by gender is also instructive. Of the 169 houses whose genders are known with a relative degree of certainty, just 12 (7%) seem to have been populated by nuns. The remaining 158 houses (93%) were inhabited by monks. Even if we take into account that the gender of the inhabitants of 35 houses (17% of the total number of houses recorded) is unknown, it is clear that from a monastic perspective, Sicily appears to have been very much a man’s world. For more on why this may have been, please see the blog post dedicated to the question of gender. 
 
-Clearly, the monastic makeup of Sicily was quite different from much of western Europe. The strong presence of Basilian monks and nuns is perhaps the most obvious evidence of this and can be largely explained by Sicily’s specific historical and geographical contexts. But it would be interesting to compare this data to other areas in twelfth-century Europe, particularly to the French lands to which the Normans had ties. It is possible to compare Sicily’s monastic data to England, largely thanks to Alison Binns’ (1989) Dedications of Monastic Houses in England and Wales, 1066-1216, whose catalog is based on male communities and excludes Cistercian foundations.[^12] Nicholas Orme has conveniently extracted the English data from her study, recording the spiritual patrons in the kingdom who had been honored by five or more dedications, a process that created a subset of 514 houses established between 1086-1216.[^13] If Binns’ parameters are applied to the Sicilian data – male, non-Cistercian monasteries whose dedications are known to us - 153 houses remain.[^14] This results in the removal of seven Cisterican houses and one monastery whose subject of dedication is unknown. And when we extract from them the names of patrons who had five or more dedications, that number becomes 70.[^15]
+Clearly, the monastic makeup of Sicily was quite different from much of western Europe. The strong presence of Basilian monks and nuns is perhaps the most obvious evidence of this and can be largely explained by Sicily’s specific historical and geographical contexts. But it would be interesting to compare this data to other areas in twelfth-century Europe, particularly to the French lands to which the Normans had ties. It is possible to compare Sicily’s monastic data to England, largely thanks to Alison Binns’ (1989) _Dedications of Monastic Houses in England and Wales, 1066-1216_, whose catalog is based on male communities and excludes Cistercian foundations.[^12] Nicholas Orme has conveniently extracted the English data from her study, recording the spiritual patrons in the kingdom who had been honored by five or more dedications, a process that created a subset of 514 houses established between 1086-1216.[^13] If Binns’ parameters are applied to the Sicilian data – male, non-Cistercian monasteries whose dedications are known to us - 153 houses remain.[^14] This results in the removal of seven Cisterican houses and one monastery whose subject of dedication is unknown. And when we extract from them the names of patrons who had five or more dedications, that number becomes 70.[^15]
 
 {{< figure src="spiritual_patrons.png" alt="" caption="" >}}
 
@@ -40,7 +40,7 @@ As Paul Oldfield has noted, with the exception of St. Agatha, Sicily’s Greek m
 
 [^7]: White, _Latin Monasticism_, 54. Please see the blog post on the recent research by Dawn Marie Hayes on the Abbey of St. Bartholomew in Lipari where she argues that the location of one of Norman Sicily’s most important monasteries was influenced by the leprosy suffered by Roger I’s illegitimate son, Geoffrey.
 
-[^8]: Loud, Latin Church, 484-86.
+[^8]: Loud, _Latin Church_, 484-86.
 
 [^9]: Pietro De Leo, "L'insediamento dei Cistercensi nel 'Regnum Siciliae': i primi monasteri cistercensi calabresi," in _I Cistercensi nel Mezzogiorno medioevale_, ed. Hubert Houben and Benedetto Vetere (Galatina: Congedo, 1994), 317-52, at 349-51. Also, White, Latin Monasticism, 163-65. Bernard of Clairvaux died in 1153, just one year before Roger II, and Peter the Venerable outlived the king by two years, dying in 1156. Just one Cluniac monastery appears to have existed during Roger II's reign; the priory of St. Mary de Jummariis of Sciacca, founded by Juliet, daughter of Roger I, was in existence by 1136, but could have been established as early as 1100. Please see the blog post on distances for additional information about the remaining two Cistercian houses that were established during the later part of the Norman period. As for Cistercian houses, the first in the kingdom was Santa Maria di Sambucina, Calabria, c. 1144 whereas the earliest in Sicily may have been the priory of St. Christopher of Prizzi, c. 1150.
 
