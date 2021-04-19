@@ -1,14 +1,50 @@
 ---
+title: "Christina's Experience"
 date: 2019-11-29T17:19:58-05:00
-title: "L'esperienza di Christina"
 draft: false
 tags: ["Family", "Heritage", "Geraci", "Christina"]
 ---
 
-Sostenibilità, accessibilità, narrazione sono il cuore di *The Norman Sicily Project*. All'inizio di quest'anno la Professoressa di Storia Dawn Hayes ha ricevuto una prestigiosa borsa di studio dal National Endowment for Humanities per il programma 'Humanities Collections and Reference Resources' per il suo progetto, "Documentare il Passato, Catalogare il Presente e Determinare il Futuro: Un Prototipo per il Patrimonio Normanno della Sicilia, dal 1061 al 1194 circa". Quando ho ricevuto una email dalla dott.ssa Hayes che si congratulava con me per aver ottenuto il ruolo di Assistente per i Media e i Metadati per lavorare al progetto, sono stata entusiasta. Da aspirante professionista dei media fortemente legata alle mie radici siciliane, cogliere questa opportunità è stata un'esperienza assai significativa per me. Possiedo una conoscenza di base della storia e della cultura siciliana perché i miei nonni, da entrambi i rami della famiglia, sono emigrati in America dall'isola. Entrando nel progetto, ho riflettuto sulle mie personali esperienze di visita presso alcuni dei siti che hanno fatto parte del mio lavoro.
-Lo scopo di *The Norman Sicily Project* è di documentare il patrimonio culturale della Sicilia durante il periodo normanno (1061-1194 circa) per rendere i monumenti a rischio accessibili agli studiosi grazie ad internet. La dott.ssa Hayes e suo marito, il dott. Hayes, capo architetto tecnico del progetto, sono andati ben oltre il raggiungimento di questi obiettivi. Ciò che permette al progetto di distinguersi è la sua enfasi sulla sostenibilità e il suo abbracciare la cultura siciliana attraverso la conoscenza dei nativi siciliani. Il loro impatto è riconosciuto nello stesso sito del progetto. "Un enorme debito di gratitudine è dovuto agli innumerevoli siciliani che, in numerosi modi, hanno contribuito a rendere possibile questo progetto. Speriamo che questo sforzo possa essere una minima ricompensa per la loro immancabile gentilezza e generosità", scrive la dott. Hayes.
+Sustainability, accessibility, and storytelling are at the heart of *The Norman Sicily Project*. Earlier
+this year Professor of History Dawn Hayes received a prestigious grant from the National
+Endowment for the Humanities' Humanities Collections and Reference Resources program for
+her project, “Documenting the Past, Triaging the Present and Assessing the Future: A Prototype
+for Sicily’s Norman Heritage, ca. 1061-1194.” When I received an email from Dr. Hayes
+congratulating me on receiving a position as a Media and Metadata Assistant to work on the
+project, I was ecstatic. As an aspiring media professional strongly connected to my Sicilian
+roots, pursuing this opportunity has been such a meaningful experience for me. I have a
+foundational knowledge of Sicilian history and culture because my grandparents from both sides
+of my family immigrated to America from the island. Coming into the project, I reflected on my
+own experiences visiting some of the sites that have been a part of my work. The aim of 
+*The Norman Sicily Project* is to document the cultural heritage of Sicily during the Norman period (c.
+1061-1194) to make at-risk monuments accessible to scholars via the internet. Dr. Hayes and
+her husband, Joe Hayes, the project’s chief technical architect, have gone above and beyond to
+achieve these goals. What leverages the project as distinctive is its emphasis on sustainability
+and its embrace of received knowledge from native Sicilians. Their impact is credited on the
+project’s site. “An enormous debt of gratitude is owed to the countless Sicilians who, in
+numerous ways, have helped make this project possible. We hope that this effort is a small
+repayment for their unfailing kindness and generosity,” writes Dr. Hayes.
 
-Lavorare al progetto ha ampliato completamente la mia percezione della ricca storia culturale della Sicilia. Nel mio ruolo di Assistente per i dati e i Metadati, sono responsabile dell'elaborazione di immagini e video da ottimizzare per l'usabilità sul web, applicando metadati alle immagini in modo tale che i visitatori possano interagire con loro e pubblicare post su piattaforme social per migliorare la visibilità del progetto. Il mio lavoro mi ha fornito uno sguardo all'interno dei capolavori architettonici del Medioevo in una regione che è stata influenzata da numerose culture durante il fiorente periodo normanno. Dopo aver elaborato centinaia centinaia di immagini che catturano l'essenza del tempo, mi è venuto in mente lo scopo dietro il mio lavoro. Catalogare le immagini di molte chiese, monasteri, castelli e altri monumenti preserva l'eredità del passato della Sicilia e rende i monumenti accessibili in modo tale da permettere di esplorare la loro futura sostenibilità. Sono attratta dalle storie dei siti e apprezzo la connessione tra le persone e i luoghi che il progetto costruisce. Ho sperimentato questa connessione in prima persona quando ho iniziato a catalogare le immagini dalla cartella del progetto Geraci Siculo. Questo paesino incastonato nelle montagne della Sicilia settentrionale è la casa dei miei nonni paterni e un posto che custodisce alcuni dei miei più bei ricordi d'infanzia. Ho avuto il privilegio di visitare Geraci anni fa in un viaggio di famiglia in cui ho visto di persona alcuni dei monumenti di cui il progetto tratta. Lavorare su questi siti oggi è un'esperienza nostalgica a cui do molto valore. Per coloro che non hanno legami con la loro eredità nel progetto, il suo impatto non è tuttavia meno convincente. Chiunque abbia un interesse per la Sicilia, l'arte e la storia medievale, o la Conquista Normanna, può apprezzare le storie all'interno di ogni sito ed espandere la propria prospettiva di un'isola piena di cultura.
+Working on the project has completely expanded my perception of Sicily’s rich cultural history.
+In my role as a Media and Metadata Assistant, I am responsible for processing images and
+videos to optimize for display and usability on the web, applying metadata to the images so that
+visitors can interact with them and posting across social media platforms to enhance the
+project's visibility. My work has provided me with an inside look into the architectural
+masterpieces of the Middle Ages in a region that was influenced by a number of cultures during
+the flourishing Norman period. After processing hundreds of the images that capture the
+essence of this time, I am reminded of the purpose behind my work. Cataloging the images of
+various churches, monasteries, castles and other monuments preserves the legacy of Sicily’s
+past and makes the monuments accessible to explore their future sustainability. I am drawn to
+the stories of the sites and I value the connection between people and places that the project
+bridges. I experienced this connection first hand when I began to catalog images from the
+project’s Geraci Siculo folder. This small town nestled in the mountains of northern Sicily is the
+home of my paternal grandparents and a place that holds some of my favorite childhood
+memories. I had the privilege of visiting Geraci years ago on a family trip where I saw some of
+the monuments from the project in person. Working on these sites today is a nostalgic
+experience that I value so much. For those who do not have ties to their heritage in the project,
+its impact is no less compelling. Anyone who has an interest in Sicily, medieval art and history,
+or the Norman Conquest can appreciate the stories within each site and expand their
+perspective of an island abundant with culture.
 
 {{< figure src="geraci_castle_2015.png" alt="Geraci Castle, 2015" caption="The Ruins of the Castle of Geraci, Looking South (2015) PC: Dawn Hayes" >}}
 

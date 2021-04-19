@@ -1,10 +1,10 @@
 ---
+title: "Explore the Sites of Sicily's Norman Past"
 date: 2020-05-07T09:05:46+05:00
-title: "Scopri i luoghi della Sicilia normanna del passato"
 draft: false
 noshowdate: true
 noshowpager: true
 ---
-{{< iframe src="http://normansicily.org/places/map/index.html?locale=it" >}}
+{{< iframe src="http://normansicily.org/places/map/index.html?locale=en" >}}
 
-{{<styled_p>}}Le immagini possono anche essere visualizzate nella [pagina dei media dell'NSP](http://media.normansicily.org/){{</styled_p>}}
+{{<styled_p>}}Images can also be viewed at the [NSP's media page](http://media.normansicily.org/){{</styled_p>}}

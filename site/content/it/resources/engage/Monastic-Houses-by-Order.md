@@ -8,11 +8,29 @@ summary: "Although the Normans were in control of Sicily by 1091, some 83% of th
 author: "Dawn Marie Hayes"
 ---
 
-{{< figure src="monastic_houses_by_order_and_hist_region.png" alt="" caption="" >}}
+## Norman Sicily’s Monastic Houses by Order and Historical Region
+
+| Historical Region (Percent of Total # of Locatable Houses) | Augustinian Canons | Basilians | Benedictines | Cistercians | Cluniacs | Hospital of St. Lazarus of Jerusalem | Knights of the Hospital of St. John of Jerusalem | Knights of the Hospital of St. Lazarus of Jerusalem | Knights Templar | Premonstratensian Canons |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Val Demone (64%) | 6 (38%) | 68 (72%) | 43 (68%) | 2 (29%) |  |  | 1 (50%) |  |  | 1 (100%) |
+| Val di Mazara (26%) | 5 (31%) | 23 (25%) | 11 (18%) | 5 (71%) | 3 (100%) |  | 1 (50%) | 1 (100%) |  |  |
+| Val di Noto (10%) | 5 (31%) | 3 (3%) | 9 (14%) |  |  |  |  |  | 1 (100%) |  |
 
 Note how monastically dense the Val Demone was, containing almost 2/3’s of the monasteries and, conversely, how monastically sparse the Val di Noto was (just about 10% of the 188 monasteries that can be located in an historical region). We can drill down a bit more by looking at these numbers using the considerably smaller unit of modern province (a geographical unit that was meaningless in the Middle Ages but provides a convenient way to take a more focused approach to the data).
 
-{{< figure src="monastic_houses_by_order_and_modern_province.png" alt="" caption="" >}}
+## Norman Sicily’s Monastic Houses by Order and Modern Province
+
+| Province (Percent of Total # of Locatable Houses) | Augustinian Canons | Basilians | Benedictines | Cistercians | Cluniacs | Hospital of St. Lazarus of Jerusalem | Knights of the Hospital of St. John of Jerusalem | Knights of the Hospital of St. Lazarus of Jerusalem | Knights Templar | Premonstratensian Canons |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Agrigento (3%) |  | 3 (3%) |  | 1 (14%) | 1 (34%) |  |  | 1 (100%) |  |  |
+| Caltanissetta (2%) | 1 (6%) |  | 3 (5%) |  |  |  |  |  |  |  |
+| Catania (15%) | 2 (13%) | 5 (5%) | 20 (31%) |  |  |  |  |  | 1 (100%) |  |
+| Enna (4%) | 1 (6%) | 5 (5%) | 1 (2%) |  |  |  |  |  |  |  |
+| Messina (47%) | 3 (19%) | 59 (63%) | 23 (36%) | 2 (29%) |  |  | 1 (50%) |  |  |  |
+| Palermo (21%) | 5 (31%) | 16 (17%) | 11 (17%) | 4 (57%) | 2 (66%) |  | 1 (50%) |  |  | 1 (100%) |
+| Ragusa (1%) |  |  | 1 (2%) |  |  |  |  |  |  |  |
+| Syracuse/Siracusa (4%) | 4 (25%) | 1 (1%) | 3 (5%) |  |  |  |  |  |  |  |
+| Trapani (3%) |  | 5 (5%) | 1 (2%) |  |  |  |  |  |  |  |
 
 Messina contained almost half of all the locatable monasteries. Palermo had almost 25%. Catania came in a distant third with just 15%. Syracuse, Enna, Agrigento, Trapani and Caltanissetta each contained 4% or less. Ragusa had the fewest - just 1% of the monastic houses.
 

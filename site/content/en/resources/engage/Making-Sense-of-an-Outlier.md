@@ -2,7 +2,7 @@
 title: "Monasticism and ... Marriage?"
 date: 2021-04-09T13:14:58-05:00
 draft: false
-tags: ["St. George of Gratteri", "Duke Roger", "Premonstratensian Canons", "Gratteri"]
+tags: ["St. George of Gratteri", "Duke Roger", "Premonstratensian Canons", "Gratteri", "Elizabeth of Blois-Champagne", Theobold II of Champagne", "Theobold IV of Blois", "St. Norbert of Xanten"]
 type: "blog"
 summary: "Was the foundation of the seemingly random priory of St. George of Gratteri an attempt to woo a bride and her very powerful dad?"
 author: "Dawn Marie Hayes"

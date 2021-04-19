@@ -1,11 +1,38 @@
 ---
+title: "Charlee's Experience"
 date: 2020-02-28T14:07:58-05:00
-title: "L'esperienza di Charlee"
 draft: false
 tags: ["Charlee", "research", "history", "film"]
 ---
-Nel mio viaggio con *The Norman Sicily Project*, la natura del mio lavoro è cresciuta parallelamente alla progressione del progetto. In questa evoluzione, mi è stato dato un inestimabile numero di opportunità per apprendere nuove abilità ed affinare quelle preesistenti. Il processo di catalogazione e assegnazione dei metadati alle immagini ha migliorato le mie capacità organizzative e la mia comprensione dei file di struttura. Questo aspetto del lavoro è stato incredibilmente vantaggioso per le mie aspirazioni di lavorare nell'ambito della post-produzione dei film - un settore in cui non solo l'organizzazione è fondamentale, ma ha anche la forza della scrittura. La mia capacità di descrivere in modo conciso le immagini si è dimostrata una risorsa della stessa funzione. Con il completamento della parte che riguarda le immagini, mi è stato più recentemente assegnato un compito fortemente orientato sulla ricerca.
+In my journey with *The Norman Sicily Project*, the nature of my work has grown
+alongside the project’s progression. In this evolution, I have been given a number of invaluable
+opportunities to learn new skills and refine pre-existing ones. The process of cataloging and
+assigning metadata to images has improved my organizational abilities and understanding of file
+structures. This facet of the job has been incredibly beneficial to my aspirations of working in the
+post-production aspect of filmmaking- a department where organization is not only key, but, has
+the force of scripture. My capacity to concisely describe images has also proven to be an asset
+of the same function. With the completion of the image portion of the project, I have more
+recently been assigned to a heavily research-oriented task.
 
-Ho avuto, insieme ad altri studenti coinvolti nel progetto, l'opportunità di espandere le ricerche sulle chiese della Sicilia normanna, anche attraverso coinvolgenti testi di fonti primarie. Questo tipo di lavoro non è stato qualcosa di particolarmente pregnante durante la mia carriera accademica. A parte una manciata di documenti di ricerca per corsi di scienze umane, il mio rapporto con questo processo è stato purtroppo limitato. L'intuitiva abilità implicata nel sottoporsi ad un intenso processo di ricerca non è qualcosa che le persone hanno spesso l'opportunità di sperimentare, ed io sono felice di averlo fatto con una parte così importante nello sviluppo del progetto. Il lavoro che ho portato a termine nei mesi passati mi ha reso uno studente ed un individuo più forte, permettendomi di scoprire ed espandere abilità che non sapevo di avere.
+I, along with other students on the project, have been given an opportunity to expand
+research on the churches of Norman Sicily, including engaging primary source texts. This type
+of work is not something I have been given much exposure to in my academic career. Aside
+from a handful of research papers for my humanities courses, my relationship with this process
+has been unfortunately limited. The intuitive skill involved in undergoing an intense research
+process is not something many people are given an opportunity to explore and I am glad I have
+been tasked with such an important part of the project’s development. The work I have
+completed in the past several months has made me a stronger student and individual, allowing
+me to explore and expand skills I did not know I had.
 
-Nel complesso, il progetto mi ricorda costantemente dell'importanza di documentare la storia e del valore del processo di comprensione dello storico. Nonostante il mio campo, il cinema, sembri escluso dal lavoro che mi è stato assegnato, trovo che alcune abilità proprie di questo siano state state un grande valore aggiunto. La relazione tra questi due mondi apparentemente separati mi ha dimostrato via via le loro reali somiglianze. Credo che il campo non importi: le abilità che dominano le discipline umanistiche sono spendibili ovunque. Oltre agli evidenti benefici professionali, il progetto ha avuto un grande impatto su di me a livello personale. Sapere di poter contribuire alla conservazione di una parte della storia incredibilmente ricca e trasformativa mi ha fatto sentire come se la mia voce fosse un po' meno piccola nella storia del mondo. In un'epoca in cui la conservazione e l'accessibilità sono diventate sempre più possibili, c'è bisogno di uno sforzo come quello del Norman Sicily Project. Noi, come storici, come studiosi, come studenti, come esseri umani, abbiamo l'obbligo di rinvigorire le parti più ricche della nostra storia che sono rimaste largamente dimenticate o inesplorate.
+Overall, the project constantly reminds me of the importance of documenting history and
+the value of understanding processes of the historian. While my field (filmmaking) seems a bit
+removed from the work I have been assigned, I have found the skills I have taken away to be of
+great value to my profession. The relationship between these two seemingly separate worlds
+have proven to me time and time again their similarities. I believe no matter the field, skills that
+dominate the humanities are translatable anywhere. Beyond the obvious professional benefits,
+the project has had a great impact on me on a personal level. To know I am able to contribute to
+the preservation of an incredibly rich and transformative part of history has made me feel like
+my voice is a little less small in the story of the world. In an era where preservation and
+accessibility has become increasingly possible, there is a necessity for efforts like The Norman
+Sicily Project. We, as historians, as scholars, as students, as humans, have an obligation to
+reinvigorate the richest parts of our history that have been widely forgotten or unexplored.

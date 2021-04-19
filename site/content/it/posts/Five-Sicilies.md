@@ -1,28 +1,62 @@
 ---
+title: "Christina's Thoughts on Five Places in Sicily"
 date: 2020-03-20T14:07:58-05:00
-title: "Riflessioni di Christina su cinque luoghi della Sicilia"
 draft: false
 tags: ["Christina", "Catania", "Messina", "Cefalù", "Lipari", "Taormina"]
 ---
 
-Fai un viaggio nel tempo quando visiti queste cinque attrazioni siciliane. I medievalisti e gli appassionati della cultura italiana apprezzeranno l'abbondanza di capolavori di architettura che si consacrano come icone permanenti del passato normanno della Sicilia. Il periodo normanno (1061-1194 circa) rappresenta un punto culturalmente ricco della storia della Sicilia durante il quale l'isola ha sperimentato cambiamenti sociopolitici trasformativi. Nonostante la notevole quantità di tempo trascorso dal periodo normanno, la sua influenza rimane rilevante per il viaggiatore e lo studioso del ventunesimo secolo.
+Take a journey through time when you visit these five Sicilian attractions. Medievalists
+and Italian culture enthusiasts will enjoy an abundance of architectural masterpieces
+that serve as standing icons of Sicily’s Norman past. The Norman period (c. 1061 –
+1194) encompasses a culturally rich point in Sicily’s history during which the island
+experienced transformative sociopolitical changes. Despite the significant amount of
+time that has passed since the Norman period, its influence remains relevant to the
+twenty-first-century traveler and scholar.
 
 ## 1. Catania
 
-Catania si trova sulla costa orientale della Sicilia ed è meglio conosciuta per il monte Etna, uno dei due vulcani attivi in tutta Italia. Sebbene il Duomo di Catania e la chiesa di Sant'Agata La Vetere potrebbero non essere i luoghi che vengono in mente pensando a questa regione, queste due chiese siciliane sono gemme nascoste che vale la pena esplorare. Il duomo di Catania attirerà l'attenzione di chiunque si trovi in sua presenza e risulterà particolarmente interessante per i visitatori amanti dell'architettura barocca.
+Catania is on the east coast of Sicily and is best known for Mt. Etna, one of the
+two active volcanoes in all of Italy. Though the Cathedral of Catania and the
+church of Sant’Agata La Vetere might not be the first locations that come to mind
+for this region, these Sicilian churches are hidden gems worth exploring.
+Catania’s cathedral will draw the attention of anyone in its presence and will be
+especially interesting to visitors with a love of Baroque architecture.
 
 ## 2. Messina
 
-Una delle regioni più conosciute della Sicilia, Messina, è una città portuale vicina più vicina all'Italia continentale. Ci sono molti siti a Messina che risalgono al periodo normanno, incluso Santo Stefano di Messina, Santa Maria delle Scale, il Duomo di Messina, la chiesa di Santissima Annunziata dei Catalani, la chiesa di San Giacomo e l'ex monastero di Santa Maria di Roccamadore. Il duomo di Messina è uno dei monumenti più conosciuti della Regione. Questa chiesa si distingue per il suo campanile ornato con varie figure scultoree e dettagli ad arco, il quale lo rende un punto di riferimento memorabile che ricorda ai visitatori del passato normanno di quest'area della Regione.
+One of the more recognizable regions in Sicily, Messina is a harbor city that is
+closest to mainland Italy. There are many sites in Messina that date to the
+Norman period, including Santo Stefano di Messina, Santa Maria delle Scale, the
+Cathedral of Messina, the church of the Santissima Annunziata dei Catalani, the
+church of San Giacomo and the former monastery of Santa Maria di
+Roccamadore. The Messina’s cathedral is one of the best-known monuments in
+the region. This church is distinctive for its ornate bell tower with various
+sculptural figures and arch detailing, making it a memorable landmark that
+reminds visitors of the area’s Norman past.
 
 ## 3. Cefalù
 
-La costa mediterranea non è l'unica parte degna di nota di Cefalù. Situata nella Sicilia orientale, Cefalù ospita numerosi siti originari del periodo normanno. Tra questi la cattedrale di Cefalù, la chiesa di San Biagio, la chiesa di San Giorgio, l'Osterio Magno e il Palazzo Maria. Molti di questi siti offrono una ricchezza di informazioni che forniscono ai visitatori uno sguardo sulla storia medievale della Sicilia, inclusa l'imponente facciata esterna del duomo. Si segnala anche il fascino dei mosaici di influenza bizantina che si trovano all'interno.  
+The Mediterranean coast is not the only noteworthy part of Cefalù. Located in
+northern Sicily, Cefalù is home to a number of sites with origins in the Norman
+period. These include Cefalù’s cathedral, the church of San Biagio, the church of
+San Giorgio, the Osterio Magno and the Palazzo Maria. Many of these sites offer
+a wealth of information that offers visitors a glimpse into Sicily’s medieval history,
+including the duomo’s impressive exterior façade. The Byzantine-influenced
+mosaics inside are also compelling.
 
 ## 4. Lipari
 
-Lipari è un'isola situata al largo della costa settentrionale della Sicilia. La chiesa di San Bartolomeo è un residuo del passato normanno della Sicilia. Questa si distingue per la sua significativa lavorazione in pietra e per le sue colonne raffiguranti diversi simboli in scultura in rilievo.
+Lipari is an island located off the northern coast of Sicily. The church of San
+Bartolomeo di Lipari is a remnant from the island’s Norman past. The church is
+distinct for its significant stonework and columns depicting different symbols in
+relief sculpture.
 
 ## 5. Taormina
 
-Forse meglio conosciuto per il suo teatro antico, questo idilliaco comune consente di esplorare in realtà molto di più. Taormina ospita molti monumenti del periodo normanno, incluso il castello, la chiesa della Madonna della Rocca, la chiesa di San Nicolò di Bari e il Palazzo Corvaja. Vale la pena di scoprire la chiesa della Madonna della Rocca oltre la sua facciata. All'interno della chiesa vi sono numerose sculture e manufatti che decorano lo spazio e che raccontano la storia delle origini uniche di quest'area della Sicilia.
+Perhaps best known for its ancient theater, there is so much more to explore in
+this idyllic comune. Taormina is home to many monuments from the Norman
+period including its castle, the church of the Madonna della Rocca, the church of
+San Nicolo di Bari and the Palazzo Corvaja. The church of Madonna della Rocca
+is worth exploring beyond its surface. Inside the church, there are various
+sculptures and artifacts decorating the space that tell about the unique origins of
+the area’s history.

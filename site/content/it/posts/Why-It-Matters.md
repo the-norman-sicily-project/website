@@ -1,14 +1,35 @@
 ---
+title: "Ally on Why the Norman Sicily Project is Important"
 date: 2020-03-06T14:07:58-05:00
-title: "Perché secondo Ally The Norman Sicily Project è importante"
 draft: false
 tags: ["Ally", "history", "research"]
 ---
 
-Per tutto il tempo in cui ho lavorato per *The Norman Sicily Project*, ho avuto l'opportunità di cimentarmi nell'apprendimento di nozioni da così tante aree di studio che mai avrei pensato di sperimentare altrimenti. Recentemente ho lavorato per confermare l'esistenza di chiese durante il periodo normanno. In queste ultime settimane mi sono reso conto di come gli storici usino le fonti per le loro ricerche. Non avevo idea di quanto questo fosse difficile fino a quando io stesso non ho avuto modo di sperimentarlo. Ho dovuto farlo da solo. È estremamente difficoltoso trovare informazioni sui siti, dal momento che tutto proviene da fonti diverse, che sono spesso difficili da rintracciare o sono fonti in lingue diverse.
+Throughout my time working with *The Norman Sicily Project*, I’ve had the opportunity to
+learn about so many different areas of study that I never would have experienced
+otherwise. Recently, I’ve been working on confirming the existence of the churches
+during the Norman period. In these past few weeks, I’ve gotten a glimpse at how
+historians use sources for their research. I had no idea how hard this was until I had to
+do it myself. It is extremely difficult to find the information that this site contains, since it
+all comes from different sources, which are often hard to track down or in another
+language.
 
-È stato fatto tantissimo lavoro per la realizzazione di *The Norman Sicily Project*, e questo è esattamente ciò che rende questo progetto così importante. *The Norman Sicily Project* permette a tutti di informarsi sul passato normanno della Sicilia riunendo tutte le informazioni in un unico posto. Le persone non dovranno più cercare attraverso innumerevoli fonti per conoscere la Sicilia normanna. Grazie a *The Norman Sicily Project*, chiunque può informarsi sui governanti della Sicilia normanna e le loro famiglie, sulla storia dei siti di tutta l'isola, sulla sostenibilità geologica dei siti e su molto altro.
+So much work has gone into *The Norman Sicily Project*, which is exactly why this
+project is so important. *The Norman Sicily Project* allows everybody to learn about
+Sicily’s Norman past by putting all of this information together in one place. People no
+longer have to search countless sources to learn about Norman Sicily. Thanks to *The
+Norman Sicily Project*, anybody can learn about Sicily’s Norman rulers and their
+families, the history of sites throughout the island, the geological sustainability of the
+sites, and much more.
 
-Un altro enorme merito di *The Norman Sicily Project* è quello di permettere ai visitatori di contribuire nell'aggiunta di informazioni al progetto. Chiunque può mandare un messaggio tramite il nostro sito web ed informarci su nuovi dati o correzioni da apportare ai dati già presenti. Questo risulta particolarmente vantaggioso perché vi sono là fuori così tante informazioni che potremmo non averle trovate tutte da soli. Si può imparare davvero tanto dai cittadini e dalla gente del posto, andando oltre le fonti accademiche.
+Another great thing about *The Norman Sicily Project* is that it allows visitors to
+contribute information to be added to the project’s records. Anybody can send a
+message through our website and inform us about new data or corrections to our
+current data. This is really beneficial because there is just so much information out there
+that we may not have found on our own. So much can be learned from locals and
+individuals, in addition to the scholarly sources.
 
-*The Norman Sicily Project* raccoglie tutto in un unico posto e rende possibile per chiunque informarsi sul passato normanno della Sicilia. C'è molto da sapere sulla storia dell'isola, e tanto è ancora da scoprire. *The Norman Sicily Project* sta lavorando duramente per documentare questa storia e renderla disponibile a tutti.
+*The Norman Sicily Project* puts everything all in one place and makes it possible for just
+about anybody to educate themselves about Sicily’s Norman past. There is so much to
+learn about this island’s history, and so much to discover. *The Norman Sicily Project* is
+working hard to document this history and make it available to everyone.

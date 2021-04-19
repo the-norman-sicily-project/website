@@ -753,3 +753,52 @@ a:hover, a:focus {
 .centered-text {
     text-align: center;
 }
+
+table {
+    border-collapse: collapse;
+    font-size: 0.9em;
+    font-family: 'Libre Baskerville', serif;
+    width: 100%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    margin-bottom: 20px;
+}
+
+table th,
+table td {
+    padding: 12px 15px;
+}
+
+table thead tr {
+    background-color: #bec0c0;
+    color: #000;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 1px solid #000;
+}
+
+table thead th {
+    border-right: 1px solid #808080;
+}
+
+table tbody td:nth-child(1) {
+    background-color: #dcdcdc;
+    font-weight: bold;
+    text-align: left;
+    border-right: 1px solid #000;
+    /* border-top: 1px solid #a6a5a6; */
+    border-bottom: 1px solid #a6a5a6;
+    border-left: 1px solid #a6a5a6;
+}
+
+table tbody td + td {
+    text-align: center;
+}
+
+table tbody td {
+    border-right: 1px solid #a6a5a6;
+    border-bottom: 1px solid #a6a5a6;
+}
+
+table tbody tr:nth-of-type(even) {
+    background-color: #f4f5f4;
+}

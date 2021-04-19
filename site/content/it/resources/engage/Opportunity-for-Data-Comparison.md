@@ -1,5 +1,5 @@
 ---
-title: "The Hard vs. Soft Power of Medieval Monasticism: A Comparison with the English Data"
+title: "The Hard vs. Soft Power of Medieval Monasticism: A Comparison with English Data"
 date: 2021-04-09T13:17:58-05:00
 draft: false
 tags: ["comparison", "England", "Alison Binns", "Nicholas Orme", "cult of the saints"]
