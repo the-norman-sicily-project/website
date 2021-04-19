@@ -85,15 +85,15 @@ Beyond the questions for which orders and in which locations these founder estab
 | St. George | 2 |  |
 | St. John | 1 | 1 |
 | St. Lucy | 1 | 1 |
-| St. Michael | 2 | 3 |
+| St. Michael* | 2 | 3 |
 | St. Nicander | 1 |  |
-| St. Nicholas | 2 | 3 |
+| St. Nicholas* | 2 | 3 |
 | Sts. Peter and Paul | 2 |  |
 | St. Pantaleo |  | 1 |
 | St. Philip | 3 |  |
-| the Virgin Mary | 8 | 11 |
+| the Virgin Mary* | 8 | 11 |
 
-5 or More among all Founders
+_\* - 5 or More among all Founders_
 
 What follows below is a table that sorts the dedications by ruler. Note how Roger I honored a relatively large number of spiritual patrons during his reign, a time when the Normans were in the process of conquering Sicily and needed the support of the Orthodox Christians who were already there. The number goes down significantly under Adelasia (indeed, one of the foundations she is listed with, Santa Maria di Maniace, she co-founded with her husband). With their son, Roger II, there are just 4 known Sicilian foundations, three of which were to either Christ, Sts. Peter and Paul, or a combination of the three - all universal patrons. The foundation of St. George of Gratteri by Duke Roger is somewhat exceptional (please see the blog post on this monastery, which we have included in the “royal” category because although Duke Roger died before becoming king, this foundation was directly related to marriage and continuation of dynasty) and we are unsure whether the spiritual patron was chosen for very specific interests. The later foundations, under William I and William II, are to the Virgin Mary - another spiritual patron with wide universal appeal. In short, the diversity of spiritual patrons contracted very quickly under the Norman rulers.
 
