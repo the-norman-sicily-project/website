@@ -1,43 +1,12 @@
 ---
-title: "Grace's Experience as a Team Member of the Norman Sicily Project"
 date: 2020-03-13T14:07:58-05:00
+title: "L'esperienza di Grace come membro del team di Norman Sicily Project"
 draft: false
 tags: ["Grace", "skills", "history"]
 ---
 
-When I heard about the opportunity to be part of The Norman Sicily Project, I was
-immediately interested in learning more. After reading the job description, I was even more
-eager to apply and I was beyond thrilled when I was offered a position on the team. Being a
-history major, with a particular interest in medieval Italian history, I was captivated by the
-pictures of the ornate details of the monasteries and churches. Prior to beginning my work on the
-project, I had some knowledge of what historical research entails. However, participating in this
-project has taught me more than I had ever expected. Not only have I been able to utilize and
-improve my research skills, I have also learned what it means to be part of a scholarly research
-team. Along with three other undergrads at Montclair State University, I have been contributing
-to the project. Initially, my first tasks were to catalogue images of the extraordinary Norman
-medieval monasteries found across Sicily, which included identifying the contents of each
-photograph, date visited, and more. Before beginning, the other students and I underwent a
-weekend of training so that we understood the complexities of working with and cataloging the
-historical data that we were about to encounter. The highlight of this stage in the project, for me,
-was to view photographs of the variety of monasteries found throughout different regions of
-Sicily and the ability to see the magnitude and cultural richness of the sites and their remains.
+Quando sono venuta a conoscenza dell'opportunità di far parte del Norman Sicily Project ho subito voluto saperne di più. Dopo aver letto la descrizione del lavoro sono stata ancora più desiderosa di candidarmi e sono stata estremamente entusiasta quando mi è stato offerto un ruolo nel team. Essendo una specialista in storia, con un particolare interesse nella storia medievale italiana, ero affascinata dalle immagini dei dettagli ornati dei monasteri e delle chiese. Prima di iniziare il mio lavoro nel progetto, avevo una certa consapevolezza di cosa comportasse la ricerca storica. Tuttavia partecipare a questo progetto mi ha insegnato molto più di quanto mi aspettassi. Non solo sono stata in grado di migliorare le mie capacità di ricerca, ma ho anche imparato cosa significhi essere parte di un team accademico di ricerca. Insieme ad altri tre studenti della Montclair State University, ho contribuito al progetto. Inizialmente il mio primo compito è stato quello di catalogare le immagini degli straordinari monasteri medievali scovati in tutta la Sicilia, che ha incluso l'identificazione dei contenuti di ogni fotografia, le date delle visite, e altro ancora. Prima di iniziare, io e gli altri studenti ci siamo sottoposti ad un fine settimana di formazione in modo da comprendere le complessità del lavoro di catalogazione dei dati storici che stavamo per incontrare. Il momento clou di questa fase del progetto, per me, è stato quello di visualizzare le fotografie dei molti monasteri scovati in diverse regioni della Sicilia e di rendersi conto dell'ampiezza e della ricchezza culturale dei siti e dei loro resti.
 
-My interest in Sicily and Sicilian history dates back to my high school years when I took
-an Advanced Placement European History class. I found it fascinating that so many different
-civilizations had left their cultural marks on the island and on southern Italy in general. From the
-Greeks to the Arabs and, of course, the Normans, the cultural diversity is apparent in the
-architecture of the island with religious buildings that have Greek elements while having Arab
-influences as well. Being a history buff, Italy was on the top of my travel bucket list ever since I
-was a young child and I was lucky enough to have the opportunity to travel there in summer of
-2014. Now, after having been fortunate enough to be a member of The Norman Sicily Project, I
-am inspired to return to Italy and travel around Sicily.
+Il mio interesse per la Sicilia e la storia siciliana risale agli anni del liceo, quando ho preso parte ad un corso di Storia Europea di Livello Avanzato. Ho trovato affascinante che così tante diverse civiltà abbiano lasciato le loro tracce culturali nell'isola e nell'Italia meridionale in generale. Dai Greci agli Arabi e, naturalmente, ai Normanni, la diversità culturale è evidente nell'architettura dell'isola attraverso gli edifici religiosi che contengono elementi greci, pur avendo anche influenze arabe. Essendo un'appassionata di storia, l'Italia è stata in cima alla mia travel wishlist sin da quando ero bambina e mi sono sentita fortunata di avere avuto l'opportunità di visitarla nell'estate del 2014. Ora, dopo aver avuto la fortuna di essere un membro del Norman Sicily Project, spero di ritornare in Italia e viaggiare per la Sicilia.
 
-Personally, the thing that I have taken away the most from being part of this project is the
-importance of preserving historical sites. Nowadays, history and other humanities are often
-brushed aside as not being as important as math and the sciences. However, I very much disagree
-with this sentiment. I argue that history is one of the most important, if not the most important,
-humanities disciplines because by studying it we can learn so much from the past. We can also
-gain insights into how to approach current issues in the present and what may arise in the future.
-Historical monuments like the monasteries, churches, fortresses, etc., of Sicily are paramount to
-learning and understanding about the medieval period in Europe. By uncovering the past, we can
-be better prepared for the future and teach future generations about what has molded the present.
+Personalmente, la cosa che mi ha conquistata di più dell'essere parte di questo progetto è stata l'importanza di preservare i siti storici. Al giorno d'oggi, la storia e le altre discipline umanistiche sono spesso messe da parte perché non considerate importanti come la matematica e le scienze. Tuttavia, sono molto in disaccordo con questo comune sentire. Sono convinta che la storia sia una delle più importanti, se non la più importante, tra le discipline umanistiche perché solo studiandola si può imparare tanto dal passato. Dalla storia si possono ottenere soluzioni per fronteggiare i problemi del presente e si può avere percezione di cosa possa avvenire in futuro. I monumenti storici come i monasteri, le chiese, le fortezze, ecc... della Sicilia sono fondamentali per l'apprendimento e la comprensione del periodo medievale in Europa. Scoprendo il passato, si può essere più preparati per il futuro ed insegnare alle generazioni future ciò che ha plasmato il presente.  

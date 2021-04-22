@@ -1,58 +1,32 @@
 ---
-title: "Ally's Behind the Scenes Take: Rebranding & Redesigning the Website"
 date: 2020-03-06T14:07:58-05:00
+title: "Il dietro le quinte di Ally: Rebranding & Riprogettazione del sito web"
 draft: false
 tags: ["Ally", "website", "design", "social media"]
 ---
 
-You might have noticed that *The Norman Sicily Project*’s website has recently undergone a lot of
-changes. Over the past few months, we’ve been working on creating a new interface for the site. Here’s a
-little behind the scenes of how we did everything.
+Avrete notato che il sito *The Norman Sicily Project* sia stato recentemente sottoposto a numerosi cambiamenti. Nei mesi passati abbiamo lavorato alla creazione di una nuova interfaccia per il sito. Ecco un piccolo dietro le quinte di come è avvenuto tutto.
 
-## First Things First
+## Cominciando dall'inizio...
 
-The first thing you should have when redesigning a website is a goal. What do you want from the new
-site? What can be improved upon from the current site? With The Norman Sicily Project, we wanted
-better accessibility and a better interface. These improvements would bring activity to the site and
-educate people about Sicily’s Norman past, which is the main goal of the project.
-Here’s some of the feedback we used to make changes to the site:
-- Make the site simpler.
-- Make the site more accessible.
-- Make the site more attractive.
-- Make the site compatible with mobile devices.
-- Make it possible forto people to contact us.
-- Improve data integration.
+La prima cosa che si dovrebbe avere nella riprogettazione di un sito è un obiettivo. Cosa si vuole dal nuovo sito? Cosa può essere migliorato del sito corrente? Per il Norman Sicily Project volevamo migliore accessibilità e una migliore interfaccia. Questi miglioramenti avrebbero portato attività al sito e avrebbero aiutato gli utenti ad apprendere sul passato normanno della Sicilia, il che rappresenta il principale obiettivo del progetto.
+Ecco alcuni dei feedback che abbiamo utilizzato per apportare cambiamenti al sito:
+- Rendi il sito più semplice
+- Rendi il sito più accessibile
+- Rendi il sito più accattivante
+- Rendilo compatibile con i devices mobili
+- Permetti il contatto tra gli utenti ed il team di lavoro
+- Migliora l'integrazione dei dati
 
-## What Went Down
+## Cosa è successo?
 
-Before even beginning to redesign the site, we needed to do a little rebranding. The project needed a new
-recognizable logo. To achieve this, we stylized an image of a lion mosaic made during the period with an
-outline of Sicily behind it.
+Ancor prima dell'inizio della riprogettazione del sito, avevamo bisogno di un piccolo rebranding. Il progetto aveva bisogno di un nuovo logo riconoscibile. Per fare ciò, abbiamo stilizzato un'immagine di un mosaico di un leone realizzata durante il periodo storico di cui ci occupiamo, aggiungendo il contorno della Sicilia sullo sfondo.
 
-We’ve been increasing our social media presence by posting weekly on Instagram, Facebook, and
-Twitter. There’s also the new addition of this blog to the website. When looking at a website with as much
-data as The Norman Sicily Project has, it can be easy to forget there are people behind it who’ve worked
-really hard to make it all possible. This blog will hopefully allow viewers to read and learn about the
-experiences of the people behind the project.
+Abbiamo accresciuto la nostra presenza sui social postando settimanalmente su Instagram, Facebook e Twitter. Abbiamo aggiunto anche un blog al sito.
+Guardando ad un sito con tanti dati quale il sito del Norman Sicily Project, può risultare semplice dimenticare che ci siano dietro persone che lavorano duramente per rendere tutto quanto possibile. Si spera che questo blog possa permettere ai visitatori di leggere ed imparare dalle esperienze vissute da coloro che stanno dietro al progetto.
 
-Now for the site redesign – this was the biggest part of the rebrand. Using the feedback that was
-mentioned earlier, we spent about a month making mockups on Photoshop. The first thing we had to do
-was decide on a theme – what colors and fonts did we want, and did they work well together? These
-decisions seem so simple but actually took us a while to figure out. For the first mockups, the site’s
-background color was taken directly from the logo. It ended up being a bit dark, which wasn’t so great for
-accessibility. From there, we tried a variety of lighter shades until ultimately choosing plain ol’ white. The
-new site uses 2 fonts, one themed and one plain. The medieval looking font was chosen to go with the
-time period the project covers. To make the main body of the site clear and easy to read, we chose a
-simple font for the paragraph text.
+Ora per la riprogettazione del sito - questa è stata la parte più impegnativa del rebrand. Facendo tesoro dei feedback sopra menzionati, abbiamo speso circa un mese facendo mockups su Photoshop. La prima cosa che abbiamo dovuto fare è stata decidere il tema - quali colori e caratteri utilizzare? I colori e caratteri scelti sarebbero stati bene insieme? Queste decisioni sembrano così semplici ma in realtà hanno richiesto del tempo. Per i primi mockups lo sfondo del sito era stato preso direttamente dal logo. Esso risultava essere leggermente scuro, il che non aiutava l'accessibilità. Da lì, abbiamo provato una varietà di tonalità più chiare fino alla scelta finale del classico bianco. Il nuovo sito utilizza due caratteri, uno a tema ed uno semplice. Il carattere dall'aspetto medievale è stato scelto in ossequio al periodo di tempo che il progetto copre. Per rendere il corpo principale del sito più chiaro e di facile lettura abbiamo scelto un carattere semplice per il paragrafo di testo.
 
-The new page designs are super easy to navigate. The tabs in the menu bar at the top clearly state the
-contents of each page. We got rid of some pages, like Chattels, which would have complicated user
-experience on the site. We also combined the Analytics, Resources, and Essays pages. They were
-consolidated into one big Resources page with pretty much all the information that wasn’t included on the
-other pages of the site. We added a Contact page with a submission form that allows everyone to
-communicate with us. This was a very important addition since there’s valuable information that can come
-from non-scholarly sources.
+I nuovi design delle pagine rendono la navigazione estremamente semplice. Le schede nella barra dei menu in alto indicano chiaramente il contenuto di ciascuna pagina. Abbiamo eliminato alcune pagine, come Chattels, che avrebbero complicato l'esperienza dell'utente sul sito. Abbiamo combinato le pagine Analisi, Risorse e Saggi. Queste sono state unificate in una nuova grande pagina Risorse contenente praticamente tutte le informazioni che non sono incluse nelle altre pagine del sito. Abbiamo aggiunto una pagina Contatti con un form che permette a tutti di comunicare con noi. Questa ha costituito un'aggiunta molto importante per il recepimento di preziose informazioni da fonti non accademiche.
 
-It’s really great to look at the website knowing everything that went into it. Every little change made a
-huge difference and the site has a completely different feel now. It’s so much easier to get to all the
-information and see everything The Norman Sicily Project has to offer. Thanks for reading!
+È molto soddisfacente guardare al sito conoscendo tutto ciò che vi è contenuto. Ogni piccolo cambiamento ha fatto un'enorme differenza ed il sito ha adesso un'atmosfera completamente diversa. Risulta molto più facile accedere a tutte le informazioni e rendersi conto di quanto il Norman Sicily Project abbia da offrire. Grazie per la lettura!
