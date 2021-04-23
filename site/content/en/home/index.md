@@ -45,7 +45,7 @@ The project also benefits from a distinguished Advisory Board whose feedback wil
    * **Sebastian Heath**, Clinical Associate Professor of Computational Humanities and Roman Archaeology, ISAW, New York University
    * **Alex Metcalfe**, Senior Lecturer in History, Lancaster University
    * **Thomas Paradise**, University Professor, Department of Geosciences, University of Arkansas
-   * **Lisa Reilly**, Associate Professor of Art History, University of Virginia
+   * **Lisa Reilly**, Professor, Department of Architectural History and the Joint Graduate Program in Art and Architectural History, University of Virginia
    * **Kelly Schrum**, Former Director of Educational Projects, Roy Rosenzweig Center for History and New Media
    * **William Tronzo**, Senior Teaching Professor, Visual Arts, University of California, San Diego
    * **Alice Turkington**, Associate Professor of Geography, University of Kentucky

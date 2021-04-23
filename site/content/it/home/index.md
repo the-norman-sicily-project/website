@@ -38,7 +38,7 @@ Il progetto beneficia anche di un illustre comitato consultivo il cui feedback a
    * **Sebastian Heath**, Professore Associato di Scienze Umane Computazionali e Archeologia Romana, ISAW, New York University
    * **Alex Metcalfe**, Docente di Storia, Lancaster University
    * **Thomas Paradise**, Professore, Dipartimento di Geoscienze, University of Arkansas
-   * **Lisa Reilly**, Professore Associato di Storia dell'Arte, University of Virginia
+   * **Lisa Reilly**, Professore Ordinario, Dipartimento di Storia dell'Architettura e il Programma Combinato di Studi Post-Laurea della Storia dell'Arte e dell'Architettura, University of Virginia
    * **Kelly Schrum**, Ex Direttore di Progetti Educativi, Roy Rosenzweig Center for History and New Media
    * **William Tronzo**, Professore Ordinario, Arti Visive, University of California, San Diego
    * **Alice Turkington**, Professore Associato di Geografia, University of Kentucky
