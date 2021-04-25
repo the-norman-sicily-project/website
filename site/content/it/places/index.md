@@ -1,6 +1,6 @@
 ---
 date: 2020-05-07T09:05:46+05:00
-title: "Scopri i luoghi della Sicilia normanna del passato"
+title: "Scopri i monasteri della Sicilia normanna e la loro rete più grande"
 draft: false
 noshowdate: true
 noshowpager: true

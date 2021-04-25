@@ -1,5 +1,5 @@
 ---
-title: "Explore the Sites of Sicily's Norman Past"
+title: "Explore the Monasteries of Norman Sicily and their Greater Network"
 date: 2020-05-07T09:05:46+05:00
 draft: false
 noshowdate: true
