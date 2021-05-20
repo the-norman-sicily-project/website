@@ -4,11 +4,11 @@ date: 2021-04-17T00:13:58-05:00
 draft: false
 tags: ["Roger I", "Adelasia", "Roger II", "Duke Roger", "William I", "William II", "Robert Guiscard", "St. Michael", "St. Nicholas", "the Virgin Mary", "Messina", "Palermo", "Catania", "Ragusa", "Cluniacs", "Cistercians", "Augustinians"]
 type: "blog"
-summary: "Although at first robust, the Norman ruler's patronage of monasteries appears to have waned signifcantly after the death of Roger I in 1101. Certain regions were focuses of monastic activity wheras others were relatively untouched. As for the spirtual patrons these communities honored, they, to, became more restricted as time went on."
+summary: "Although at first robust, the Norman rulers' patronage of monasteries appears to have waned significantly after the death of Roger I in 1101. Certain regions were focuses of monastic activity whereas others were relatively untouched. As for the spiritual patrons these communities honored, they, too, became more restricted as time went on."
 author: "Dawn Marie Hayes"
 ---
 
-The question of monastic patronage - the founding or rebuilding of monasteries - in Norman Sicily is an interesting one about which the sources provide data. Below are two tables that offer information about the monasteries whose founders or rebuilders are known. The individuals have been divided into two groups, one for the “royal” founders (in other words, the rulers - Robert Guiscard, Roger I and the kings from Roger II onward). A quick glance shows a heavy investment by the Norman rulers in Basilian foundations, followed by Benedictine and Augustinian houses (the two Cluniac and Premonstratensian communities are outliers, as noted in separate blog posts). Founders not in the ruling class also favored Basilians and Benedictines, but they also created Cistercian communities, too. 
+The question of monastic patronage - the founding or rebuilding of monasteries - in Norman Sicily is an interesting one about which the sources provide data. Below are two tables that offer information about the monasteries whose founders or rebuilders are known. The individuals have been divided into two groups, one for the “royal” founders (in other words, the rulers - Robert Guiscard, Roger I and the kings from Roger II onward). A quick glance shows a heavy investment by the Norman rulers in Basilian foundations, followed by Benedictine and Augustinian houses (the two Cluniac and Premonstratensian communities are outliers, as noted in separate blog posts). Founders not in the ruling class also favored Basilians and Benedictines, but they also created Cistercian communities, too.
 
 ## Recorded “Royal” and Non-Royal Foundations by Order
 
@@ -26,31 +26,31 @@ A closer look at the Hauteville family foundations reveals that Roger I was the 
 
 ## Recorded “Royal” Foundations by Order
 
-| Order | Robert Guiscard | Roger I | Adelasia | Roger II | Duke Roger | William I | William II| 
+| Order | Robert Guiscard | Roger I | Adelasia | Roger II | Duke Roger | William I | William II|
 |---|---|---|---|---|---|---|---|
-| Augustinians |  | 1 | 1 | 1 |  |  | | 
-| Basilians |  | 16 | 2 | 2 |  |  | | 
-| Benedictines | 1 | 4 | 2 | 1 |  | 1 | | 
-| Cluniacs |  |  |  |  |  |  | 1| 
-| Premonstratensians |  |  |  |  | 1 |  | | 
+| Augustinians |  | 1 | 1 | 1 |  |  | |
+| Basilians |  | 16 | 2 | 2 |  |  | |
+| Benedictines | 1 | 4 | 2 | 1 |  | 1 | |
+| Cluniacs |  |  |  |  |  |  | 1|
+| Premonstratensians |  |  |  |  | 1 |  | |
 
 We can also determine for these two distinct groups of people where they were establishing their foundations. Following is a table that shows the locations of the “royal” and non-royal foundations. The territory that comprises the modern provinces of Messina, Palermo and Catania - in that order - were the locations of the vast majority of the monasteries for both groups, suggesting a northern bias that skewed toward the northern and eastern coasts. The center of the island, what today would be the province of Enna, had few foundations in general and only two for whom we have the names of founders. Trapani also contained relatively few houses, with just two non-royal founders for whom we have names. Note the relative solitude of Ragusa for not only those for whom we have names. Even if we include monasteries whose founders are unknown, Ragusa was a relatively lonely place.  This may explain why, when faced with the need to give his leprous son who was severely physically compromised a domain, Roger I chose to make him lord of Ragusa. For more on this, see Dawn Hayes’ forthcoming research on this question of Geoffrey of Hauteville.
 
 ## Recorded “Royal” and Non-Royal Foundations by Geography (Modern Province)
 
-| Modern Province | Royal | Non-Royal| 
+| Modern Province | Royal | Non-Royal|
 |---|---|---|
-| Agrigento | 1 | 2| 
-| Caltanissetta | 1 | | 
-| Catania | 2 | 3| 
-| Enna | 2 | | 
-| Messina | 18 | 6| 
-| Palermo | 6 | 11| 
-| Ragusa |  | | 
-| Syracuse/Siracusa | 1 | 2| 
-| Trapani |  | 2| 
+| Agrigento | 1 | 2|
+| Caltanissetta | 1 | |
+| Catania | 2 | 3|
+| Enna | 2 | |
+| Messina | 18 | 6|
+| Palermo | 6 | 11|
+| Ragusa |  | |
+| Syracuse/Siracusa | 1 | 2|
+| Trapani |  | 2|
 
-A more focused table that shows the location of the Hauteville rulers’ foundations shows again the active nature of Roger I as well as  the preference for the three provinces noted above (Messina, Palermo and Catania, in that order). Note how the number of foundations peters out after Roger II as well as the focus on Palermo from the king’s reign onward. 
+A more focused table that shows the location of the Hauteville rulers’ foundations shows again the active nature of Roger I as well as  the preference for the three provinces noted above (Messina, Palermo and Catania, in that order). Note how the number of foundations peters out after Roger II as well as the focus on Palermo from the king’s reign onward.
 
 ## Recorded “Royal” Foundations by Geography (Modern Province)
 

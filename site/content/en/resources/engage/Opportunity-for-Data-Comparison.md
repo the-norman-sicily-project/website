@@ -4,7 +4,7 @@ date: 2021-04-09T13:17:58-05:00
 draft: false
 tags: ["comparison", "England", "Alison Binns", "Nicholas Orme", "cult of the saints"]
 type: "blog"
-summary: "An examination of Siculo-Norman monasteries and their dedications revelas that although the Normans maintained control over the monastic orders - the \"hard power\" that could have strong political ramifications on the island - they were less focused on streamlining the softer power that was represented by the cults of the saints."
+summary: "An examination of Siculo-Norman monasteries and their dedications reveals that although the Normans maintained control over the monastic orders - the \"hard power\" that could have strong political ramifications on the island - they were less focused on streamlining the softer power that was represented by the cults of the saints."
 author: "Dawn Marie Hayes"
 ---
 
