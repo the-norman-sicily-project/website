@@ -25,7 +25,7 @@ Clicca qui per un [PDF dell'Indice](/pdfs/cultural_stone_stability_index.pdf). A
 [Retroscena](https://www.youtube.com/watch?v=YGKlwjaH-cw&feature=youtu.be) del progetto, attraverso [Office of Alumni Relations](https://www.montclair.edu/alumni/) della [Montclair State University](http://montclair.edu/).
 ### Libro bianco {class="resource-item"} ###
 
-Il (futuro) Libro bianco di Humanities Collections and Reference Resources del [National Endowment for the Humanities](https://www.neh.gov/).
+[Il Libro bianco](/pdfs/neh_white_paper.pdf) di Humanities Collections and Reference Resources del [National Endowment for the Humanities](https://www.neh.gov/).
 
 ### Bibliografia {class="resource-item"} ###
 
