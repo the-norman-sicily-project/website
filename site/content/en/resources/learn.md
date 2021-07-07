@@ -28,6 +28,10 @@ The project's [backstory](https://www.youtube.com/watch?v=YGKlwjaH-cw&feature=yo
 
 [National Endowment for the Humanities](https://www.neh.gov/)' Humanities Collections and Reference Resources [White Paper](/pdfs/neh_white_paper.pdf).
 
+### Conference Paper {class="resource-item"} ###
+
+["The Norman Sicily Project: A Completed Prototype and Next Steps."](/pdfs/nsp_leeds_paper.pdf) Given at the [International Medieval Congress](https://www.imc.leeds.ac.uk/imc-2021/), [University of Leeds](https://www.leeds.ac.uk/), July 5, 2021.
+
 ### Bibliography {class="resource-item"} ###
 
 The [NSP's bibliography](https://www.zotero.org/groups/2199947/norman_sicily_project/library).
