@@ -7,4 +7,5 @@ fa_icon: fa-info-circle
 noshowdate: true
 noshowpager: true
 layout: "engage-list"
+listitem: true
 ---

@@ -6,7 +6,17 @@ draft: false
 fa_icon: fa-book-open
 noshowdate: true
 noshowpager: true
+listitem: true
 ---
+
+### Introductory Essays {class="resource-item"} ###
+
+Written by [Montclair State University](https://www.montclair.edu/) Undergraduate Students and Translated by Alessandra Faranda, [University of Palermo](https://www.unipa.it/)
+
+1. ["The Norman Conquest of Southern Italy and Sicily,"](group_one) by Bobby Ammiano, Gary Rodriguez and Brian Schnell
+2. ["The Norman Rulers,"](group_two) by Rich DeVivo, Alicya Garrido, Robert Macaluso and Taelor Myrie
+3. ["The Worlds the Normans Found,"](group_three) by Masud Ahmed, Fathia Balgahoom, Kenneth Gutierrez and Jonathan Hoffman
+4. ["The World the Normans Made,"](group_four) by Emily Cotugno, Kimberly Grecco, Megan Ingwersen, Samuel Moss and Dylan Reddick
 
 ### Articles {class="resource-item"} ###
 
@@ -16,7 +26,7 @@ Dawn Marie Hayes and Joseph Hayes, The Norman Sicily Project: A Digital Portal t
 
 ### Videos {class="resource-item"} ###
 
-Dr. Greg Pope's explanation of the [Cultural Stone Stability Index](https://www.shralliance.com/cssi) (CSSI), an adaptation of the [Rock Art Stability Index](https://www.shralliance.com/rasi) (RASI) developed by members of the [Stone Heritage Research Alliance](https://www.shralliance.com/), which we are using to assess a number of Sicily's surviving Norman monuments. 
+Dr. Greg Pope's explanation of the [Cultural Stone Stability Index](https://www.shralliance.com/cssi) (CSSI), an adaptation of the [Rock Art Stability Index](https://www.shralliance.com/rasi) (RASI) developed by members of the [Stone Heritage Research Alliance](https://www.shralliance.com/), which we are using to assess a number of Sicily's surviving Norman monuments.
 
 {{< youtube id=CTZxt60CDUE >}}
 

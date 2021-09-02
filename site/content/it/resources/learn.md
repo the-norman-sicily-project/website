@@ -6,7 +6,17 @@ draft: false
 fa_icon: fa-book-open
 noshowdate: true
 noshowpager: true
+listitem: true
 ---
+
+### Temi Introduttivi { class="resource-item" } ###
+
+Temi Introduttivi Scritti da Studenti Universitari a [Montclair State University](https://www.montclair.edu/) e Tradotti da Alessandra Faranda, Studentessa all'[Università degli Studi di Palermo](https://www.unipa.it/)
+
+1. ["La conquista normanna dell'Italia meridionale e della Sicilia,"](group_one) scritto da Bobby Ammiano, Gary Rodriguez e Brian Schnell
+2. ["I governanti normanni,"](group_two) scritto da Rich DeVivo, Alicya Garrido, Robert Macaluso e Taelor Myrie
+3. ["I mondi i normanni hanno scoperto,"](group_three) scritto da Masud Ahmed, Fathia Balgahoom, Kenneth Gutierrez e Jonathan Hoffman
+4. ["Il mondo i normanni hanno fatto,"](group_four) scritto da Emily Cotugno, Kimberly Grecco, Megan Ingwersen, Samuel Moss e Dylan Reddick
 
 ### Contributi {class="resource-item"} ###
 

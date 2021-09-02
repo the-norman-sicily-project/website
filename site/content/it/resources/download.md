@@ -6,6 +6,7 @@ draft: false
 fa_icon: fa-file-download
 noshowdate: true
 noshowpager: true
+listitem: true
 ---
 
 ### Vocabolario {class="resource-item"} ###

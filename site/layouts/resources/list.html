@@ -2,7 +2,7 @@
 <section class="article-list">
   <h1 class="text-primary">{{ .Title }}</h1>
   <div class="resource-list">
-  {{ range .Pages }}
+  {{ range where .Pages "Params.listitem" true }}
     {{ .Render "li" }}
   {{ end }}
   </div>
