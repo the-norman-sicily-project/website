@@ -1,0 +1,5 @@
+security:
+  funcs:
+    getenv:
+    - ^HUGO_
+    - ^REACT_
