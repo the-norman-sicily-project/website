@@ -22,3 +22,7 @@
   other = "Jan 2, 2006"
 [allTags]
   other = "All tags"
+[announcement]
+  other = 'Siamo lieti di condividere che <em>Sicilia Normanna</em> è stato nominato per il <em>Premio Italia Medievale</em>! Per favore, sostienici esprimendo un voto (elencato nella categoria &quot;F&quot;) sul loro <a href="https://www.italiamedievale.org/portale/premio-italia-medievale/">sito web</a>!'
+[announcementConfirmation]
+  other = "Okay!"

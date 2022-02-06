@@ -1,0 +1,11 @@
+<div class="announcement-overlay">
+  <div class="announcement-container">
+      <p>
+        {{ i18n "announcement" | safeHTML }}
+      </p>
+      <button class="announcement-btn">
+        {{ i18n "announcementConfirmation" }}
+      </button>
+  </div>
+</div>
+<script src="{{ .Site.BaseURL }}js/announcements.js"></script>
