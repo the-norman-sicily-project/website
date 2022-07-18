@@ -19,16 +19,16 @@ Students will be able to show a thorough understanding of the subject by writing
 
 ## Assessments ##
 
-* *Formative Assessment*: The assessment at the beginning of the lesson will consist of an entry ticket handed to each student as they make their way into class. The ticket will be comprised of a couple of questions about the subject that they will be learning during the lesson. This coincides with the summative assessment at the end of the lesson which will assess what they have learned by asking similar questions to the formative assessment.
+* *Formative Assessment:* The assessment at the beginning of the lesson will consist of an entry ticket handed to each student as they make their way into class. The ticket will be comprised of a couple of questions about the subject that they will be learning during the lesson. This coincides with the summative assessment at the end of the lesson which will assess what they have learned by asking similar questions to the formative assessment.
 
-* * Summative Assessment:* This assessment will take place at the end of the lesson right before the students leave the class in the form of an exit ticket. It will be an on-paper questionnaire that will ask similar questions that the formative entry ticket asked. The purpose of this is to showcase that the students learned new information from the lesson, but also will let the teacher know what information did not get through to the students if any. This benefits the students and the teachers in creating a refined lesson delivery which helps the subject material get to the students better.
+* *Summative Assessment:* This assessment will take place at the end of the lesson right before the students leave the class in the form of an exit ticket. It will be an on-paper questionnaire that will ask similar questions that the formative entry ticket asked. The purpose of this is to showcase that the students learned new information from the lesson, but also will let the teacher know what information did not get through to the students if any. This benefits the students and the teachers in creating a refined lesson delivery which helps the subject material get to the students better.
 
 ## Materials ##
 
-* *Formative Assessment*: [Entry Ticket](Entry_Ticket.docx)
-* *Summative Assessment*: [Exit Ticket](Exit_Ticket.docx)
-* *Slide Presentation*: [The People of Norman Sicily](The_People_of_Norman_Sicily.pptx)
-* *Class presentation activity*: [Norman Rulers Activity](Norman_Rulers_Activity.docx)
+* *Formative Assessment:* [Entry Ticket](Entry_Ticket.docx)
+* *Summative Assessment:* [Exit Ticket](Exit_Ticket.docx)
+* *Slide Presentation:* [The People of Norman Sicily](The_People_of_Norman_Sicily.pptx)
+* *Class presentation activity:* [Norman Rulers Activity](Norman_Rulers_Activity.docx)
 
 | Duration: | The teacher will... | The student(s) will... |
 |---|---|---|
