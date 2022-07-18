@@ -24,7 +24,7 @@ Written by [Montclair State University](https://www.montclair.edu/) Undergraduat
 
 1. ["The People of Norman Sicily"](people_of_norman_sicily)
 2. ["Monasteries and Religion of Norman Sicily"](monasteries_and_religion_of_norman_sicily)
-
+3. ["Assessing the Stone Stability of Norman Sicily’s Monuments"](assessing_the_stone_stability_of_norman_sicilys_monuments)
 
 ### Articles {class="resource-item"} ###
 
