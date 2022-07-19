@@ -25,9 +25,9 @@ Students will be able to demonstrate through writing their knowledge of the impo
 ## Materials ##
 
 * *Cultural Stone Stability Index:* [The Cultural Stone Stability Index](/pdfs/cultural_stone_stability_index.pdf)
-* *Formative Assessment:* https://docs.google.com/forms/d/e/1FAIpQLSdQcnYvi6wNEJNccWcaTLqz-OSIM5Blto5mKAWNQ02_ibkJDg/viewform?vc=0&c=0&w=1&flr=0
+* *Formative Assessment:* [Prior Knowledge Assessment](Prior_Knowledge_Assessment.docx)
 * *Summative Assessment:* [Summative Assessment](Summative_Assessment.docx)
-* *Slide Presentation:*  https://docs.google.com/presentation/d/1KdnrBUq9QG1U7WXX9UDI_9fty4-DsVXX-
+* *Slide Presentation:* [Architecture and Stone Stability in Norman Sicily](Architecture_and_Stone_Stability_in_Norman_Sicily.pptx)
 
 | Duration | The teacher will... | The students(s) will... |
 |---|---|---|
