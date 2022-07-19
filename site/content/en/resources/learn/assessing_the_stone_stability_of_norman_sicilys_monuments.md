@@ -1,8 +1,14 @@
-# Assessing the Stone Stability of Norman Sicily's Monuments #
+---
+title: "Assessing the Stone Stability of Norman Sicily's Monuments"
+date: 2022-07-19T17:17:46+04:00
+draft: false
+noshowdate: true
+noshowpager: true
+---
 
-**Topic of the Lesson:** Assessing the Stone Stability of Norman Sicily’s Monuments
-**Grade/Course:** Entry-level course
-**Lesson Duration:** 75 minutes
+* **Topic of the Lesson:** Assessing the Stone Stability of Norman Sicily’s Monuments
+* **Grade/Course:** Entry-level course
+* **Lesson Duration:** 75 minutes
 
 ## Essential Questions for the Lesson ##
 
