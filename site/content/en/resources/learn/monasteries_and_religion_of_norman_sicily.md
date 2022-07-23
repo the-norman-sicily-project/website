@@ -31,7 +31,7 @@ Students will be able to interpret data regarding monastic information in Norman
 ## Materials ##
 
 * *Slideshow Presentation (Formative Assessment on the second slide):* [Monasteries and Religion of Norman Sicily](Monasteries_and_Religion_of_Norman_Sicily.pptx)
-* *Summative Assessment:* [Summative Assessment](summative_Assessment.docx)
+* *Summative Assessment:* [Summative Assessment](Summative_Assessment.docx)
 * *Class Activity:* [Class Activity](Class_Activity.docx)
 
 | Duration: | The teacher will... | The student(s) will... |

@@ -20,7 +20,7 @@ Written by [Montclair State University](https://www.montclair.edu/) Undergraduat
 
 ### Teaching Resources {class="resource-item"} ###
 
-*All lesson plans created by Tanner Rusyniak (CHSS, 2022) and translated into Italian by Tanina Habib (CHSS, 2023)*
+Created and Translated into Italian Respectively by [Montclair State University](https://www.montclair.edu/) Undergraduate Students Tanner Rusyniak (CHSS, 2022) and Tanina Habib (CHSS, 2023)
 
 1. ["The People of Norman Sicily"](people_of_norman_sicily)
 2. ["Monasteries and Religion of Norman Sicily"](monasteries_and_religion_of_norman_sicily)
