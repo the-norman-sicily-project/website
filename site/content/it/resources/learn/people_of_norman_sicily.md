@@ -15,7 +15,7 @@ noshowpager: true
 
 Quale tipo di connessione la gente della Sicilia normanna ebbe con le aree circostante? 
 
-Come i governanti della Sicilia Normanna ebbero un impatto sulla cultura dell’isola? 
+Come i governanti della Sicilia normanna ebbero un impatto sulla cultura dell’isola? 
 
 ## Obbiettivi ##
 
@@ -33,7 +33,7 @@ Gli studenti potranno essere un esperto del soggetto di scrivere sulle connessio
 
 * *Valutazione Formativa:* [Biglietto d'Entrata](Biglietto_DEntrata.docx)
 * *Valutazione Sommativa:* [Biglietto d'Uscita](Biglietto_DUscita.docx)
-* *Presentazione di diapositive:* [La gente della Sicilia Normanna](La_gente_della_Sicilia_Normanna.pptx)
+* *Presentazione di diapositive:* [La gente della Sicilia normanna](La_gente_della_Sicilia_Normanna.pptx)
 * *Attività frontale:* [Attività frontale (la gente)](attivita_frontale_(la_gente).docx)
 
 | Durata: | Attività del docente... | Attivita degli alunni... |

@@ -18,7 +18,7 @@ Perché è importante preservare le strutture storiche?
 
 ## Obbiettivi ##
 
-Gli studenti potranno usare l’indice stabilità della pietra culturale mentre osservano una foto di una struttura della sicilia normanna. 
+Gli studenti potranno usare l’Indice Stabilità della Pietra Culturale mentre osservano una foto di una struttura della Sicilia normanna. 
 
 Gli studenti potranno dimostrare la loro conoscenza scritta dell’importanza di preservare le strutture storiche. 
 
@@ -38,7 +38,7 @@ Gli studenti potranno dimostrare la loro conoscenza scritta dell’importanza di
 | Durata | Attività del docente... | Attività degli alunni... |
 |---|---|---|
 | 10 minuti | Istruisce gli studenti ad aprire i loro portatili o gli smartphone e li da’ un link alla forma (valutazione formativa). | Tirano i loro portatili o gli smartphone e rispondono le domande dalla forma. |
-| 15 minuti | Dà lezioni sul tema includendo l’architettura e il l'Indice di Stabilità della Pietra Culturale. Fa disponibile la presentazione da diapositive agli studenti così possono partecipare con la lezione come sta avanzando. | Ascoltano alla presentazione e prendono appunti (facoltativo). Imparano dell’architettura siciliana normanna e il l'Indice di Stabilità della Pietra Culturale.  |
-| 30 minuti | Inizia le istruzioni dell'attività di l'Indice di Stabilità della Pietra Culturale. Ha gli studenti cliccano il link dalla presentazione. Presenta lo slide con la foto essendo valutato sullo schermo. Cammina in giro la classe di vedere e aiutare quando è necessario.  | Scaricano e modificano il PDF di l'Indice di Stabilità della Pietra Culturale e valutano la struttura della pietra. Possono lavorare solo o fanno coppia.  |
+| 15 minuti | Dà lezioni sul tema includendo l’architettura e l'Indice di Stabilità della Pietra Culturale. Fa disponibile la presentazione da diapositive agli studenti così possono partecipare con la lezione come sta avanzando. | Ascoltano alla presentazione e prendono appunti (facoltativo). Imparano dell’architettura siciliana normanna e l'Indice di Stabilità della Pietra Culturale.  |
+| 30 minuti | Inizia le istruzioni dell'attività dell'Indice di Stabilità della Pietra Culturale. Ha gli studenti cliccano il link dalla presentazione. Presenta lo slide con la foto essendo valutato sullo schermo. Cammina in giro la classe di vedere e aiutare quando è necessario.  | Scaricano e modificano il PDF dell'Indice di Stabilità della Pietra Culturale e valutano la struttura della pietra. Possono lavorare solo o fanno coppia.  |
 | 10 minuti | Inizia una discussione sulla struttura della pietra per vedere cosa gli studenti ne pensavano. Ogni studente/studentessa o gruppo diranno quale voto danno alla loro struttura alla classe. | Partecipano nella discussione con la classe delle loro risultanze sulla struttura della pietra. Presenteranno il loro voto alla classe.  |
 | 10 minuti | Istruisce gli studenti a rispondere alla valutazione sommativa trovato sulla presentazione da diapositive.  | Creano una copia delle domande della lezione. Risponderanno le domande e condivideranno il documento con l’insegnante.  |
