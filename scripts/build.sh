@@ -65,6 +65,7 @@ cp -pr "$PROJECTDIR/site/public"/* "$DISTDIR"
 echo build interactive map
 pushd "$BUILDDIR/interactive-map"
 yarn install
+npx browserslist@latest --update-db
 yarn build --production
 popd
 
