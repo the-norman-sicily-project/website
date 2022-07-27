@@ -18,13 +18,13 @@ Temi Introduttivi Scritti da Studenti Universitari a [Montclair State University
 3. ["I mondi i normanni hanno scoperto,"](group_three) scritto da Masud Ahmed, Fathia Balgahoom, Kenneth Gutierrez e Jonathan Hoffman
 4. ["Il mondo i normanni hanno fatto,"](group_four) scritto da Emily Cotugno, Kimberly Grecco, Megan Ingwersen, Samuel Moss e Dylan Reddick
 
-### Teaching Resources {class="resource-item"} ###
+### Risorse Didattiche {class="resource-item"} ###
 
-Created and Translated into Italian Respectively by [Montclair State University](https://www.montclair.edu/) Undergraduate Students Tanner Rusyniak (CHSS, 2022) and Tanina Habib (CHSS, 2023)
+Create e Tradotte all'Italiano Rispettivamente da Studenti Universitari a [Montclair State University](https://www.montclair.edu/) Tanner Rusyniak ([CHSS](https://www.montclair.edu/chss/), 2022) e Tanina Habib ([CHSS](https://www.montclair.edu/chss/), 2023)
 
-1. ["The People of Norman Sicily"](people_of_norman_sicily)
-2. ["Monasteries and Religion of Norman Sicily"](monasteries_and_religion_of_norman_sicily)
-3. ["Assessing the Stone Stability of Norman Sicily’s Monuments"](assessing_the_stone_stability_of_norman_sicilys_monuments)
+1. ["La gente della Sicilia normanna"](people_of_norman_sicily)
+2. ["La religione e i monasteri della Sicilia normanna"](monasteries_and_religion_of_norman_sicily)
+3. ["Valutare la stabilità della pietra dei monumenti della Sicilia normanna"](assessing_the_stone_stability_of_norman_sicilys_monuments)
 
 ### Contributi {class="resource-item"} ###
 

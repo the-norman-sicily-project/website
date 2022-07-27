@@ -1,5 +1,5 @@
 ---
-title: "La gente della Sicilia Normanna"
+title: "La gente della Sicilia normanna"
 date: 2022-07-22T17:17:46+04:00
 draft: false
 noshowdate: true
@@ -7,13 +7,13 @@ noshowpager: true
 ---
 
 
-* **La tema della lezione:** La gente della Sicilia Normanna
+* **La tema della lezione:** La gente della Sicilia normanna
 * **Classe/Corso:** la storia/Italiane bilingue
 * **La durata della lezione:** 75 minuti
 
 ## Le domande fondamentale ##
 
-Quale tipo di connessione la gente della Sicilia Normanna ebbe con le aree circostante? 
+Quale tipo di connessione la gente della Sicilia normanna ebbe con le aree circostante? 
 
 Come i governanti della Sicilia Normanna ebbero un impatto sulla cultura dell’isola? 
 
@@ -31,9 +31,9 @@ Gli studenti potranno essere un esperto del soggetto di scrivere sulle connessio
 
 ## Materiali didattici: ##
 
-* *Valutazione Formativa:* [Biglietto D'Entrata](Biglietto_DEntrata.docx)
-* *Valutazione Sommativa:* [Biglietto D'Uscita](Biglietto_DUscita.docx)
-* *Presentazione di diapositive:* [The People of Norman Sicily](The_People_of_Norman_Sicily.pptx)
+* *Valutazione Formativa:* [Biglietto d'Entrata](Biglietto_DEntrata.docx)
+* *Valutazione Sommativa:* [Biglietto d'Uscita](Biglietto_DUscita.docx)
+* *Presentazione di diapositive:* [La gente della Sicilia Normanna](La_gente_della_Sicilia_Normanna.pptx)
 * *Attività frontale:* [Attività frontale (la gente)](attivita_frontale_(la_gente).docx)
 
 | Durata: | Attività del docente... | Attivita degli alunni... |
