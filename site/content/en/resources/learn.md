@@ -18,6 +18,14 @@ Written by [Montclair State University](https://www.montclair.edu/) Undergraduat
 3. ["The Worlds the Normans Found,"](group_three) by Masud Ahmed, Fathia Balgahoom, Kenneth Gutierrez and Jonathan Hoffman
 4. ["The World the Normans Made,"](group_four) by Emily Cotugno, Kimberly Grecco, Megan Ingwersen, Samuel Moss and Dylan Reddick
 
+### Teaching Resources {class="resource-item"} ###
+
+Created and Translated into Italian Respectively by [Montclair State University](https://www.montclair.edu/) Undergraduate Students Tanner Rusyniak (CHSS, 2022) and Tanina Habib (CHSS, 2023)
+
+1. ["The People of Norman Sicily"](people_of_norman_sicily)
+2. ["Monasteries and Religion of Norman Sicily"](monasteries_and_religion_of_norman_sicily)
+3. ["Assessing the Stone Stability of Norman Sicily’s Monuments"](assessing_the_stone_stability_of_norman_sicilys_monuments)
+
 ### Articles {class="resource-item"} ###
 
 Dawn Marie Hayes and Joseph Hayes, The Norman Sicily Project: An Ongoing, Web-Based Effort to Promote the Island's Eleventh- and Twelfth-Century Past, forthcoming in _Mapping Medieval Sicily: Maritime Violence, Cultural Exchange, and Imagination in the Mediterranean_), ed. Emily Sohmer Tai and Kathryn Reyerson (Palgrave Macmillan). _This is a significantly revised and updated version of the 2019_ Digital Medievalist _article._
