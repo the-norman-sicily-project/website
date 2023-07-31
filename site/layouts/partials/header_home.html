@@ -44,8 +44,6 @@
   <link rel="stylesheet" href="{{ (print "css/" . ) | absURL }}">
   {{ end }}
 
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/announcements.css" />
-
   {{ if eq .Params.url "/" }}
   <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate"
     type="application/rss+xml" title="{{ .Site.Title }}" />
@@ -53,7 +51,6 @@
 </head>
 
 <body>
-  {{ partial "announcement.html" . }}
   <header id="homepage-header">
     <div class="homepage-menu-container">
       <div class="homepage-menu" id="homePageNav">
@@ -93,7 +90,7 @@
 
     <section class="homepage-banner">
       <div class="homepage-banner-header">
-        {{ with .Site.Params.title }}
+        {{ with .Site.Title }}
         <h1 class="homepage-title">
           {{ . }}
         </h1>

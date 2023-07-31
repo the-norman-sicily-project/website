@@ -220,12 +220,14 @@ input[type=text], select, textarea {
     display: flex;
     flex-direction: row;
     background-color: #0000008a;
+    justify-content: center;
 }
 
 .navbar-container {
     position: static;
     font-family: 'Libre Baskerville', serif;
-    margin-left: 108px;
+    display: flex;
+    flex-direction: row-reverse;
 }
 
 .navbar-container.active {

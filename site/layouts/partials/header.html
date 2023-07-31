@@ -30,6 +30,7 @@
   <title>
     {{ if ne .Params.url "/" }} {{ .Title }} &middot; {{ end }} {{ .Site.Title }}
   </title>
+
   <link rel="alternative stylesheet" href="{{ .Site.BaseURL }}css/bootstrap.min.css" />
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/fontawesome.all.min.css" />
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css" />
@@ -43,14 +44,11 @@
     <link rel="stylesheet" href="{{ (print "css/" . ) | absURL }}" />
   {{ end }}
 
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/announcements.css" />
-
   {{ if eq .Params.url "/" }}
     <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
   {{ end }}
 </head>
 <body>
-  {{ partial "announcement.html" . }}
   {{ if isset .Params "image" }}
   <header class="global-header"  style="background-image:url({{ .Params.image }})">
   {{ else }}
@@ -68,7 +66,7 @@
           </div>
           <div class="col-md-8">
           <div class="row">
-            {{ with .Site.Params.title }}
+            {{ with .Site.Title }}
             <div class="col-md-12">
               <h1 class="page-title">
                 {{ . }}
@@ -93,7 +91,7 @@
           </div>
       </div>
       <div class="row">
-        <div class="navbar-lang-container">
+          <div class="navbar-lang-container">
           <div class="navbar-container">
             {{ range .Site.Menus.main }}
               <a class="btn btn-default navbar-item" href="{{ .URL | absLangURL | safeURL }}">
@@ -112,15 +110,15 @@
           <!-- This will get the path to the resource from the language code and beyond -->
           {{ $path := strings.TrimPrefix $pathPrefix $url.Path }}
 
-          {{ if .IsTranslated }}
-          <div class="language-container">
-            {{ range .Translations }}
-              {{ $svgFile := print "static/svgs/" .Language.Lang ".svg" }}
-              <a class="btn btn-default language-button" href="{{ .Permalink }}">{{ $svgFile | readFile | safeHTML }}</a>
+            {{ if .IsTranslated }}
+            <div class="language-container">
+              {{ range .Translations }}
+                {{ $svgFile := print "static/svgs/" .Language.Lang ".svg" }}
+                <a class="btn btn-default language-button" href="{{ .Permalink }}">{{ $svgFile | readFile | safeHTML }}</a>
+              {{ end }}
+              </div>
             {{ end }}
-            </div>
-          {{ end }}
-        </div>
+          </div>
       </div>
     </div>
     </section>
