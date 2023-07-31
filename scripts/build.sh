@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-set -ex
+set -euxo pipefail
 
 BASE_URL=${1:-http://www.normansicily.org/}
 
@@ -58,7 +58,7 @@ cp $BUILDDIR/interactive-map/package.$$.json $BUILDDIR/interactive-map/package.j
 
 echo build website
 pushd site
-hugo --cleanDestinationDir --baseUrl "$BASE_URL" -v
+hugo --cleanDestinationDir --baseURL "$BASE_URL" -v
 popd
 cp -pr "$PROJECTDIR/site/public"/* "$DISTDIR"
 
