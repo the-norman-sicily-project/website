@@ -15,7 +15,8 @@ enableMissingTranslationPlaceholders="true"
     mainSections = ["posts"]
     # Social accounts. Link to these accounts are displayed in the header and
     # footer.
-    ga_api_key = "UA-75482271-1"
+    #ga_api_key = "UA-75482271-1"
+    gtag_api_key = "G-H699DXFJL4"
     twitter = "Norman_Sicily"
     github = "the-norman-sicily-project"
     facebook = "TheNormanSicilyProject"
@@ -27,10 +28,9 @@ enableMissingTranslationPlaceholders="true"
         weight = "1"
         contentDir = "content/en"
         languageName = "English"
-        title = "The Norman Sicily Project"
-        subtitle = "Resources for the Study of the Norman State in Sicily, 1061-1194"
         # Copyright notice. This is displayed in the footer.
-        copyright = "&copy;  2015 - 2022 by Dawn Marie Hayes and Joseph Hayes. All Rights Reserved."
+        copyright = "&copy;  2015 - 2023 by Dawn Marie Hayes and Joseph Hayes. All Rights Reserved."
+        title = "The Norman Sicily Project"
         [languages.en.menu]
             [[languages.en.menu.main]]
                 name = "HOME"
@@ -62,15 +62,16 @@ enableMissingTranslationPlaceholders="true"
                 identifier = "ContactUs"
                 url = "contactus"
                 weight = 1
+        [languages.en.params]
+            subtitle = "Resources for the Study of the Norman State in Sicily, 1061-1194"
     [languages.it]
         languageCode = "it"
         weight = "2"
         languageName = "Italiano"
         contentDir = "content/it"
         title = "Sicilia Normanna"
-        subtitle = "Risorse per la studia dello stato normanno della Sicilia, 1061-1194"
         # Copyright notice. This is displayed in the footer.
-        copyright = "&copy;  2015 - 2022 by Dawn Marie Hayes and Joseph Hayes. All Rights Reserved."
+        copyright = "&copy;  2015 - 2023 by Dawn Marie Hayes and Joseph Hayes. All Rights Reserved."
         [languages.it.menu]
             [[languages.it.menu.main]]
                 name = "HOME"
@@ -102,3 +103,5 @@ enableMissingTranslationPlaceholders="true"
                 identifier = "Contattaci"
                 url = "contactus"
                 weight = 1
+        [languages.it.params]
+            subtitle = "Risorse per la studia dello stato normanno della Sicilia, 1061-1194"
