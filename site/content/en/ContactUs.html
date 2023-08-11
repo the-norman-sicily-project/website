@@ -72,6 +72,15 @@ noshowpager: true
                 come to know the details. Information uncorroborated by a scholarly source will be included but will be
                 identified as such in the sites' records.</p>
         </div>
+        <input type="hidden" id="captchaResponse" name="g-recaptcha-response">
         <button type="submit" class="btn btn-default btn-data-submission">Submit</button>
     </form>
 </div>
+<script>
+    grecaptcha.ready(function() {
+        grecaptcha.execute('6LfO1ZsnAAAAAOEuJ-vq_jgp1M5A3HaIAXfMPoLr', {action: 'homepage'})
+        .then(function(token) {
+          document.getElementById('captchaResponse').value = token;
+        });
+      });
+</script>

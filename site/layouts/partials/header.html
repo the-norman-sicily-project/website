@@ -47,6 +47,7 @@
   {{ if eq .Params.url "/" }}
     <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
   {{ end }}
+  <script src="https://www.google.com/recaptcha/api.js?render=6LfO1ZsnAAAAAOEuJ-vq_jgp1M5A3HaIAXfMPoLr"></script>
 </head>
 <body>
   {{ if isset .Params "image" }}
