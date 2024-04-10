@@ -29,7 +29,7 @@ enableMissingTranslationPlaceholders="true"
         contentDir = "content/en"
         languageName = "English"
         # Copyright notice. This is displayed in the footer.
-        copyright = "&copy;  2015 - 2023 by Dawn Marie Hayes and Joseph Hayes. All Rights Reserved."
+        copyright = "&copy;  2015 - 2024 by Dawn Marie Hayes and Joseph Hayes. All Rights Reserved."
         title = "The Norman Sicily Project"
         [languages.en.menu]
             [[languages.en.menu.main]]
