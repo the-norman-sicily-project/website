@@ -28,7 +28,7 @@ Create e Tradotte all'Italiano Rispettivamente da Studenti Universitari a [Montc
 
 ### Contributi {class="resource-item"} ###
 
-Dawn Marie Hayes e Joseph Hayes, The Norman Sicily Project: An Ongoing, Web-Based Effort to Promote the Island's Eleventh- and Twelfth-Century Past, sarà pubblicato in _Mapping Medieval Sicily: Maritime Violence, Cultural Exchange, and Imagination in the Mediterranean_), ed. Emily Sohmer Tai and Kathryn Reyerson (Palgrave Macmillan). _Questo saggio è una versione significativamente rivista e aggiornata dell'articolo_ Digital Medievalist _del 2019._
+Dawn Marie Hayes e Joseph Hayes, The Norman Sicily Project: An Ongoing, Web-Based Effort to Promote the Island's Eleventh- and Twelfth-Century Past, sarà pubblicato in _Mapping Medieval Sicily: Maritime Violence, Cultural Exchange, and Imagination in the Mediterranean_), ed. Emily Sohmer Tai and Kathryn Reyerson (Palgrave Macmillan, 2022), 269-91. _Questo saggio è una versione significativamente rivista e aggiornata dell'articolo_ Digital Medievalist _del 2019._
 
 Dawn Marie Hayes e Joseph Hayes, The Norman Sicily Project: A Digital Portal to Sicily's Norman Past, [Digital Medievalist](https://journal.digitalmedievalist.org/), 12(1), p.3. DOI: [http://doi.org/10.16995/dm.68](http://doi.org/10.16995/dm.68).
 
