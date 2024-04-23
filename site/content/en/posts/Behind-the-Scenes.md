@@ -30,7 +30,7 @@ recognizable logo. To achieve this, we stylized an image of a lion mosaic made d
 outline of Sicily behind it.
 
 We’ve been increasing our social media presence by posting weekly on Instagram, Facebook, and
-Twitter. There’s also the new addition of this blog to the website. When looking at a website with as much
+X. There’s also the new addition of this blog to the website. When looking at a website with as much
 data as The Norman Sicily Project has, it can be easy to forget there are people behind it who’ve worked
 really hard to make it all possible. This blog will hopefully allow viewers to read and learn about the
 experiences of the people behind the project.

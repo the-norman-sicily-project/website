@@ -2,7 +2,7 @@
 
 set -euxo pipefail
 
-BASE_URL=${1:-http://www.normansicily.org/}
+BASE_URL=${1:-https://www.normansicily.org/}
 
 MAPBOX_ACCESS_TOKEN="${MAPBOX_APIKEY:-UNSET}"
 REACT_APP_API_SERVER_HOST="${REACT_APP_API_SERVER_HOST:-localhost}"

@@ -3,7 +3,7 @@ $(window).on("scroll", (e) => {
 
   const scrollTop = $(window).scrollTop();
 
-  console.log(`SCROLL TOP: ${scrollTop}`);
+  // console.log(`SCROLL TOP: ${scrollTop}`);
 
   if(scrollTop > 110) {
     $("img.logo").addClass("active");

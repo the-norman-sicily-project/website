@@ -12,10 +12,10 @@ _Detail from Muhammad al-Idrīsī's world map contained in the twelfth-century K
 
 This project is an effort to document the cultural heritage of Sicily from c. 1061 – 1194, a transformative period in the island's history, by using print, photographic, web and geolocation technologies to identify and explicate dilapidated, at-risk, and/or hard-to-access monuments. The island's castles, monasteries, churches, palaces, bridges, and other monuments are housed in a NoSQL database that provides maximum flexibility of data storage as well as when information is queried and returned. The website, which is very much under construction, is being developed with a close eye toward usability that encourages both scholars and students to interact with the interface and learn more about Sicily's Norman past. Each site has its own discrete page embedded with pertinent information, including photos and display location on a regional map. The geolocation information makes it possible to travel to the site and ultimately there will be versions of the interface available to users of both tablets and mobile phones. This is especially valuable as it is difficult to reach many of these sites as they are often not well signed and at significant elevation. In time, there will be an array of visualizations available to help make sense of the data. These will include density charts for monasteries and fortifications as well as pie charts that offer information about Sicily's religious houses (Latin vs. Greek, monastic order, status, etc.). Key to this site will be several essays. Some will interpret the data we have collected against a wider historical backdrop, providing greater understanding of Norman society. Others will consider the data within a sustainability framework.
 
-One of the most innovative aspects of this site is its focus on sustainability. In addition to treating these monuments as testaments to a vibrant past, this project also approaches them as living organisms - survivors of centuries of climactic trials and tribulations - which are in desperate need of physical examination. An ongoing collaboration with [Dr. Greg Pope](http://www.montclair.edu/profilepages/view_profile.php?username=popeg) of MSU's [Department of Earth and Environmental Studies](https://www.montclair.edu/csam/earth-environment-studies/) is enabling us to [assess the integrity of some of these monuments](https://www.youtube.com/watch?v=CTZxt60CDUE) and to share this information in the sites' records. By doing this, The Norman Sicily Project is providing critical context as we consider not just what the monuments reveal about the past, but also what we might expect for their future survival.
+One of the most innovative aspects of this site is its focus on sustainability. In addition to treating these monuments as testaments to a vibrant past, this project also approaches them as living organisms - survivors of centuries of climactic trials and tribulations - which are in desperate need of physical examination. Collaboration with [Dr. Greg Pope](http://www.montclair.edu/profilepages/view_profile.php?username=popeg) of MSU's [Department of Earth and Environmental Studies](https://www.montclair.edu/csam/earth-environment-studies/) has enabled us to [assess the integrity of some of these monuments](https://www.youtube.com/watch?v=CTZxt60CDUE) and to share this information in the sites' records. A new collaboration with Co-Investigator Casey Allen will build on this foundation.
 
 We are grateful for the financial support this project has received from the Angelo and Mary Cali Fund for Italian Studies,
-an award administered by the Dean of the [College of Humanities and Social Sciences](http://www.montclair.edu/chss/), [Montclair State University (MSU)](http://www.montclair.edu/), from the [CHSS Dean's Office](https://www.montclair.edu/chss/about-the-college/deans-office/) itself, from the Herman and Margaret Sokol Faculty/Student Research Grant Program that is administered by MSU's [College of Science and Mathematics (CSAM)](https://www.montclair.edu/csam/pseg-sustainability-institute/) as well as from MSU's [PSE&G Institute for Sustainability Studies](https://www.montclair.edu/csam/pseg-sustainability-institute/). In addition, we are also enormously grateful for the support of the [National Endowment for the Humanities](https://www.neh.gov/), whose logo appears below, for the generous grant it awarded the project for 2019-2021 through its [Humanities Collections and Reference Resources](https://www.neh.gov/grants/preservation/humanities-collections-and-reference-resources) program.
+an award administered by the Dean of the [College of Humanities and Social Sciences](http://www.montclair.edu/chss/), [Montclair State University (MSU)](http://www.montclair.edu/), from the [CHSS Dean's Office](https://www.montclair.edu/chss/about-the-college/deans-office/) itself, from the Herman and Margaret Sokol Faculty/Student Research Grant Program that is administered by MSU's [College of Science and Mathematics (CSAM)](https://www.montclair.edu/csam/pseg-sustainability-institute/) as well as from MSU's [PSE&G Institute for Sustainability Studies](https://www.montclair.edu/csam/pseg-sustainability-institute/). In addition, we are also enormously grateful for the support of the [National Endowment for the Humanities](https://www.neh.gov/), whose logo appears below, for the generous grants it awarded the project for 2019-2021 and 2024-2027 through its [Humanities Collections and Reference Resources](https://www.neh.gov/grants/preservation/humanities-collections-and-reference-resources) program. Please note, however, that any views, findings, conclusions, or recommendations expressed in this web resource do not necessarily represent those of the agency. 
 
 {{< figure src="NEH-Preferred-Seal820.jpg" alt="NEH" >}}
 
@@ -23,11 +23,10 @@ More information about Dr. Hayes' research on medieval Sicily is available on he
 
 ## Credits ##
 
-A number of [Montclair State University](http://www.montclair.edu/) students have been playing critical roles in the development of this site as
-it gets off the ground. Ryan Marshall ([CSAM](https://www.montclair.edu/csam/), 2019) helped develop the interactive map that enables the site's users to engage the data. Isamar Cortes ([CSAM](https://www.montclair.edu/csam/), 2019) was also instrumental; her experience with various GIS packages
+A number of [Montclair State University](http://www.montclair.edu/) students have played critical roles in the development of this site as it got off the ground. Ryan Marshall ([CSAM](https://www.montclair.edu/csam/), 2019) helped develop the interactive map that enables the site's users to engage the data. Isamar Cortes ([CSAM](https://www.montclair.edu/csam/), 2019) was also instrumental; her experience with various GIS packages
 to create elevations and maps that allow for the visualization of data
 in their geographical contexts has been invaluable. Another important member
-of our team, Jamila Haramuniz ([CSAM](https://www.montclair.edu/csam/), 2020), has kindly been loaning her prodigious statistical skills as well
+of our team, Jamila Haramuniz ([CSAM](https://www.montclair.edu/csam/), 2020), had kindly loaned her prodigious statistical skills as well
 as her knowledge of R to the project, making it possible to consider the
 data in new ways. In addition, Matthew Parlapiano ([CEHS](https://www.montclair.edu/cehs/), 2019) did a fine job of extracting data from Alexander of Telese's History, performing the tedious work of preparing the text for machine processing. Isamar's, Jamila's and Matthew's contributions will be incorporated into the project's next iteration. During 2019-2021, we were fortunate to have working on the project as media and metadata assistants Christina Giordano ([CHSS](https://www.montclair.edu/chss/) and [CART](https://www.montclair.edu/arts/), 2022), Grace Last ([CHSS](https://www.montclair.edu/chss/), 2021), Alessandra Lentini ([CART](https://www.montclair.edu/arts/), 2021), James Leyva ([CHSS](https://www.montclair.edu/chss/), 2021) and Charlee Reiff ([CART](https://www.montclair.edu/arts/), 2020). Michael Cerbo ([CHSS](https://www.montclair.edu/chss/), 2024) helped develop a database for the churches that exited in the eastern part of the island during the summer of 2023. We are very grateful to each of them.
 
@@ -39,14 +38,36 @@ Alessandra Faranda ([University of Palermo](https://www.unipa.it/), 2023) has sk
 
 We are also grateful to Mel Colella, whose fine editing skills greatly improved the opening video.
 
+*Principal Investigator*
+
+* **Dawn Marie Hayes**, Professor of Medieval European History, Montclair State University
+
+*Co-Investigators*
+
+* **Casey D. Allen**, Lecturer in Environmental/Earth Science, The University of The West Indies, Barbados and Associate Director, Stone Heritage Research Alliance
+* **Craig MacDonald**, Associate Professor and Director, Center for Digital Experiences, Pratt Institute
+
+*Principal Programmer and Architect*
+
+* **Joe Hayes**, Senior Software Engineer (Private Sector)
+
+*Analyst*
+
+* **Deepak Bal**, Associate Professor of Mathematics, Montclair State University
+
+*Consultants*
+
+* **Salvatore Buffa**, Cyber Security Consultant (Private Sector)
+* **Alessandra Faranda**, Graduate Student, Intellectual Property and Technology, Bocconi University
+
 The project also benefits from a distinguished Advisory Board whose feedback will help shape the site going forward:
    * **Sarah Davis-Secord**, Associate Professor of History, University of New Mexico
-   * **Matthew Gold**, Associate Professor of English and Digital Humanities, CUNY Graduate Center
+   * **Franz Fischer**, Director, Venice Centre for Digital and Public Humanities, University of Ca' Foscari
+   * **Kaelin Groom**, Director, Heritage Science, Stone Heritage Research Alliance and Faculty Associate, Arizona State University Online
    * **Sebastian Heath**, Clinical Associate Professor of Computational Humanities and Roman Archaeology, ISAW, New York University
    * **Alex Metcalfe**, Senior Lecturer in History, Lancaster University
-   * **Thomas Paradise**, University Professor, Department of Geosciences, University of Arkansas
    * **Lisa Reilly**, Professor, Department of Architectural History and the Joint Graduate Program in Art and Architectural History, University of Virginia
-   * **Kelly Schrum**, Former Director of Educational Projects, Roy Rosenzweig Center for History and New Media
+   * **Nathan Sleeter**, Director of Educational Projects, Roy Rosenzweig Center for History and New Media
    * **William Tronzo**, Senior Teaching Professor, Visual Arts, University of California, San Diego
    * **Alice Turkington**, Associate Professor of Geography, University of Kentucky
    * **Steven Way, Alumnus**, Montclair State University

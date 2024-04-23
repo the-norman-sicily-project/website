@@ -5,6 +5,6 @@ draft: false
 noshowdate: true
 noshowpager: true
 ---
-{{< iframe src="http://normansicily.org/places/map/index.html?locale=en" >}}
+{{< iframe src="https://normansicily.org/places/map/index.html?locale=en" >}}
 
 {{<styled_p>}}Images can also be viewed at the [NSP's media page](http://media.normansicily.org/){{</styled_p>}}
