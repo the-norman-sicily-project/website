@@ -49,7 +49,7 @@ mkdir -p "$DISTDIR"
 echo cloning required repos
 git clone https://github.com/the-norman-sicily-project/interactive-map.git "$BUILDDIR/interactive-map"
 git clone https://github.com/the-norman-sicily-project/genealogical-trees.git -b "jph-nsp" "$BUILDDIR/genealogical-trees"
-git clone https://github.com/the-norman-sicily-project/data-dumps.git "$BUILDDIR/data-dumps"
+# git clone https://github.com/the-norman-sicily-project/data-dumps.git "$BUILDDIR/data-dumps"
 # git clone https://github.com/joephayes/sicilian-monastic-orders-choropleth-map.git "$BUILDDIR/sicilian-monastic-orders-choropleth-map"
 
 echo $(cat $BUILDDIR/interactive-map/package.json | jq '.homepage='\"${BASE_URL}places/map/\") \
@@ -81,8 +81,8 @@ cp -p "$BUILDDIR/genealogical-trees/data/"*.png "$DISTDIR/data/."
 cp -p "$BUILDDIR/genealogical-trees/data/"nsp.* "$DISTDIR/data/."
 sed -i -e "s/data\//\/data\//g" "$DISTDIR/people/family-tree/index.js"
 
-echo copy data files
-cp -pr "$BUILDDIR/data-dumps/latest/." "$DISTDIR/data/."
+#echo copy data files
+#cp -pr "$BUILDDIR/data-dumps/latest/." "$DISTDIR/data/."
 
 # echo copy Sicilian Monastic Orders Choropleth Map files
 # cp -p "$BUILDDIR/sicilian-monastic-orders-choropleth-map/config.js.sample" "$BUILDDIR/sicilian-monastic-orders-choropleth-map/config.js"
