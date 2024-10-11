@@ -1,7 +1,7 @@
 ---
 title: "Scopri di più"
 description: "Maggiori informazioni"
-date: 08-05-2020T21:52:46+05:00
+date: 2020-05-08T21:52:46+05:00
 draft: false
 fa_icon: fa-book-open
 noshowdate: true
