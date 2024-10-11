@@ -71,7 +71,7 @@ enableMissingTranslationPlaceholders="true"
         contentDir = "content/it"
         title = "Sicilia Normanna"
         # Copyright notice. This is displayed in the footer.
-        copyright = "&copy;  2015 - 2023 by Dawn Marie Hayes and Joseph Hayes. All Rights Reserved."
+        copyright = "&copy;  2015 - 2024 by Dawn Marie Hayes and Joseph Hayes. All Rights Reserved."
         [languages.it.menu]
             [[languages.it.menu.main]]
                 name = "HOME"
